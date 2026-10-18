@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 6ad6b632e73550b4dad55a142f48bcd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5278891366238918094
+    second: altars-separated_0
+  - first:
+      213: 1905329789257468592
+    second: altars-separated_1
+  - first:
+      213: 7067225450103296087
+    second: altars-separated_2
+  - first:
+      213: 4749506720599837537
+    second: altars-separated_3
+  - first:
+      213: -8970969308222018366
+    second: altars-separated_4
+  - first:
+      213: -5150494748390508460
+    second: altars-separated_5
+  - first:
+      213: 7437814815331374757
+    second: altars-separated_6
+  - first:
+      213: -7818852931976302152
+    second: altars-separated_7
+  - first:
+      213: 1727865678622433063
+    second: altars-separated_8
+  - first:
+      213: -2850700869352363952
+    second: altars-separated_9
+  - first:
+      213: -5476562230720138062
+    second: altars-separated_10
+  - first:
+      213: -8564459221471520371
+    second: altars-separated_11
+  - first:
+      213: 8730211838750997429
+    second: altars-separated_12
+  - first:
+      213: 921282628680319171
+    second: altars-separated_13
+  - first:
+      213: -2963576811792548432
+    second: altars-separated_14
+  - first:
+      213: 3755685240862022358
+    second: altars-separated_15
+  - first:
+      213: 7887234759245462271
+    second: altars-separated_16
+  - first:
+      213: -4754031967154205447
+    second: altars-separated_17
+  - first:
+      213: 4894453951433640529
+    second: altars-separated_18
+  - first:
+      213: 3950713959109217116
+    second: altars-separated_19
+  - first:
+      213: 6882335806879513511
+    second: altars-separated_20
+  - first:
+      213: 8456303268956166833
+    second: altars-separated_21
+  - first:
+      213: -6997772610676776012
+    second: altars-separated_22
+  - first:
+      213: 7881382020035131657
+    second: altars-separated_23
+  - first:
+      213: 8117113870963383444
+    second: altars-separated_24
+  - first:
+      213: 5860761855806991949
+    second: altars-separated_25
+  - first:
+      213: 1704192693919323523
+    second: altars-separated_26
+  - first:
+      213: -5390545319670798816
+    second: altars-separated_27
+  - first:
+      213: -6134382447433416917
+    second: altars-separated_28
+  - first:
+      213: -8667921639028689274
+    second: altars-separated_29
+  - first:
+      213: 3262078492668615517
+    second: altars-separated_30
+  - first:
+      213: -4319368529642080868
+    second: altars-separated_31
+  - first:
+      213: 7956826218990361564
+    second: altars-separated_32
+  - first:
+      213: 6608895119606531800
+    second: altars-separated_33
+  - first:
+      213: 587383361758358342
+    second: altars-separated_34
+  - first:
+      213: 5487660106117968129
+    second: altars-separated_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: altars-separated_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 58
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ae37b654c9db6b0800000000000000
+      internalID: -5278891366238918094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 70
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba49a43957117a10800000000000000
+      internalID: 1905329789257468592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 50
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d1056a14d31260800000000000000
+      internalID: 7067225450103296087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 50
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b0fabc233a9e140800000000000000
+      internalID: 4749506720599837537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 76
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccae74c1f6b08380800000000000000
+      internalID: -8970969308222018366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 50
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4583ba89054c588b0800000000000000
+      internalID: -5150494748390508460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 50
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6d6f4da2d683760800000000000000
+      internalID: 7437814815331374757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f7863faadd7390800000000000000
+      internalID: -7818852931976302152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f11e91eac9af710800000000000000
+      internalID: 1727865678622433063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058ea59b9a64078d0800000000000000
+      internalID: -2850700869352363952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 27
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4fa9fcaa75ff3b0800000000000000
+      internalID: -5476562230720138062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d891fdae6bde42980800000000000000
+      internalID: -8564459221471520371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 22
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbb9a6a961f72970800000000000000
+      internalID: 8730211838750997429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c08a3c6bad09cc00800000000000000
+      internalID: 921282628680319171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 27
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd358467924fd6d0800000000000000
+      internalID: -2963576811792548432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da12cdf3dfde1430800000000000000
+      internalID: 3755685240862022358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 22
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa70f4a936157d60800000000000000
+      internalID: 7887234759245462271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc0ce22d19460eb0800000000000000
+      internalID: -4754031967154205447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 27
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a85b8dfe79ce340800000000000000
+      internalID: 4894453951433640529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bc1edf961c3d630800000000000000
+      internalID: 3950713959109217116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 22
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab3102c3f7f28f50800000000000000
+      internalID: 6882335806879513511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba5b1b0503da5570800000000000000
+      internalID: 8456303268956166833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 27
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b327a9e2eae2ee90800000000000000
+      internalID: -6997772610676776012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909385b903b406d60800000000000000
+      internalID: 7881382020035131657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1b203f08c5a070800000000000000
+      internalID: 8117113870963383444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ee8803bdb955150800000000000000
+      internalID: 5860761855806991949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38590e5d93286a710800000000000000
+      internalID: 1704192693919323523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a063979fe035b0800000000000000
+      internalID: -5390545319670798816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ff6585aab4edaa0800000000000000
+      internalID: -6134382447433416917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686f5c4a13b55b780800000000000000
+      internalID: -8667921639028689274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 12
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b54f81b1b354d20800000000000000
+      internalID: 3262078492668615517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95bea015358e04c0800000000000000
+      internalID: -4319368529642080868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 11
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb5f620a435c6e60800000000000000
+      internalID: 7956826218990361564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 12
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c5f9881387bb50800000000000000
+      internalID: 6608895119606531800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64be4903e0ec62800800000000000000
+      internalID: 587383361758358342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altars-separated_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1017e39aac5182c40800000000000000
+      internalID: 5487660106117968129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      altars-separated_0: -5278891366238918094
+      altars-separated_1: 1905329789257468592
+      altars-separated_10: -5476562230720138062
+      altars-separated_11: -8564459221471520371
+      altars-separated_12: 8730211838750997429
+      altars-separated_13: 921282628680319171
+      altars-separated_14: -2963576811792548432
+      altars-separated_15: 3755685240862022358
+      altars-separated_16: 7887234759245462271
+      altars-separated_17: -4754031967154205447
+      altars-separated_18: 4894453951433640529
+      altars-separated_19: 3950713959109217116
+      altars-separated_2: 7067225450103296087
+      altars-separated_20: 6882335806879513511
+      altars-separated_21: 8456303268956166833
+      altars-separated_22: -6997772610676776012
+      altars-separated_23: 7881382020035131657
+      altars-separated_24: 8117113870963383444
+      altars-separated_25: 5860761855806991949
+      altars-separated_26: 1704192693919323523
+      altars-separated_27: -5390545319670798816
+      altars-separated_28: -6134382447433416917
+      altars-separated_29: -8667921639028689274
+      altars-separated_3: 4749506720599837537
+      altars-separated_30: 3262078492668615517
+      altars-separated_31: -4319368529642080868
+      altars-separated_32: 7956826218990361564
+      altars-separated_33: 6608895119606531800
+      altars-separated_34: 587383361758358342
+      altars-separated_35: 5487660106117968129
+      altars-separated_4: -8970969308222018366
+      altars-separated_5: -5150494748390508460
+      altars-separated_6: 7437814815331374757
+      altars-separated_7: -7818852931976302152
+      altars-separated_8: 1727865678622433063
+      altars-separated_9: -2850700869352363952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

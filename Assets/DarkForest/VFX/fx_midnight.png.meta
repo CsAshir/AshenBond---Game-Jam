@@ -1,0 +1,1186 @@
+fileFormatVersion: 2
+guid: 50d118df251616e4c8d82ca4771d147b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3952664021365493731
+    second: fx_midnight_0
+  - first:
+      213: -7724936954760577913
+    second: fx_midnight_1
+  - first:
+      213: -1888877157817206785
+    second: fx_midnight_2
+  - first:
+      213: 264119669970353558
+    second: fx_midnight_3
+  - first:
+      213: 15230518691413246
+    second: fx_midnight_4
+  - first:
+      213: 2457182471032356512
+    second: fx_midnight_5
+  - first:
+      213: -9144075189733867806
+    second: fx_midnight_6
+  - first:
+      213: -7695934244566013701
+    second: fx_midnight_7
+  - first:
+      213: -7377560692882834235
+    second: fx_midnight_8
+  - first:
+      213: -1244358358891872790
+    second: fx_midnight_9
+  - first:
+      213: 7880231848327292880
+    second: fx_midnight_10
+  - first:
+      213: -151876242362956361
+    second: fx_midnight_11
+  - first:
+      213: -8708394438769065492
+    second: fx_midnight_12
+  - first:
+      213: 1086640537530667592
+    second: fx_midnight_13
+  - first:
+      213: -4669301377184977443
+    second: fx_midnight_14
+  - first:
+      213: 3435167962783776178
+    second: fx_midnight_15
+  - first:
+      213: 344142671839219502
+    second: fx_midnight_16
+  - first:
+      213: -3591703047787375254
+    second: fx_midnight_17
+  - first:
+      213: -7843900311883163409
+    second: fx_midnight_18
+  - first:
+      213: 6768767821878608444
+    second: fx_midnight_19
+  - first:
+      213: -4100713760100806068
+    second: fx_midnight_20
+  - first:
+      213: 5352512621901761156
+    second: fx_midnight_21
+  - first:
+      213: 4086432650350132952
+    second: fx_midnight_22
+  - first:
+      213: 1895267520231438233
+    second: fx_midnight_23
+  - first:
+      213: 5914876969637554494
+    second: fx_midnight_24
+  - first:
+      213: -5893659013156507105
+    second: fx_midnight_25
+  - first:
+      213: -8721646136020696148
+    second: fx_midnight_26
+  - first:
+      213: -7214228395019097620
+    second: fx_midnight_27
+  - first:
+      213: 6287745256144053519
+    second: fx_midnight_28
+  - first:
+      213: -1318673150274160889
+    second: fx_midnight_29
+  - first:
+      213: -7082171332033862445
+    second: fx_midnight_30
+  - first:
+      213: -7940093808078516233
+    second: fx_midnight_31
+  - first:
+      213: 2110783355566395144
+    second: fx_midnight_32
+  - first:
+      213: 8661232341573990994
+    second: fx_midnight_33
+  - first:
+      213: 7685362007012622979
+    second: fx_midnight_34
+  - first:
+      213: -1588351331664445056
+    second: fx_midnight_35
+  - first:
+      213: 5733214740331475264
+    second: fx_midnight_36
+  - first:
+      213: 4006268251097826132
+    second: fx_midnight_37
+  - first:
+      213: 8316431933074625443
+    second: fx_midnight_38
+  - first:
+      213: 3180424436352417658
+    second: fx_midnight_39
+  - first:
+      213: -1426735700974486206
+    second: fx_midnight_40
+  - first:
+      213: -1873227038240389489
+    second: fx_midnight_41
+  - first:
+      213: 1591737351183917047
+    second: fx_midnight_42
+  - first:
+      213: 6962649009335336678
+    second: fx_midnight_43
+  - first:
+      213: -7107067600874154456
+    second: fx_midnight_44
+  - first:
+      213: -4921825165617632073
+    second: fx_midnight_45
+  - first:
+      213: 182736746968610277
+    second: fx_midnight_46
+  - first:
+      213: 6417418293298219578
+    second: fx_midnight_47
+  - first:
+      213: -1398798702105895641
+    second: fx_midnight_48
+  - first:
+      213: -6362861820581543184
+    second: fx_midnight_49
+  - first:
+      213: -2697258558444253097
+    second: fx_midnight_50
+  - first:
+      213: 6402053868735675603
+    second: fx_midnight_51
+  - first:
+      213: -1044316475974624418
+    second: fx_midnight_52
+  - first:
+      213: 5918833760973036873
+    second: fx_midnight_53
+  - first:
+      213: -2321095493283451047
+    second: fx_midnight_54
+  - first:
+      213: -1338670335869410497
+    second: fx_midnight_55
+  - first:
+      213: 7707709492289125878
+    second: fx_midnight_56
+  - first:
+      213: -9069887298940161834
+    second: fx_midnight_57
+  - first:
+      213: -2331033153712157553
+    second: fx_midnight_58
+  - first:
+      213: -1151570365590276382
+    second: fx_midnight_59
+  - first:
+      213: 563530293221400277
+    second: fx_midnight_60
+  - first:
+      213: 8263975127763943990
+    second: fx_midnight_61
+  - first:
+      213: -6105887028593659527
+    second: fx_midnight_62
+  - first:
+      213: -4314931057319226111
+    second: fx_midnight_63
+  - first:
+      213: -178761451412770727
+    second: fx_midnight_64
+  - first:
+      213: -4369077846258368926
+    second: fx_midnight_65
+  - first:
+      213: -4488154592058908020
+    second: fx_midnight_66
+  - first:
+      213: 116671248538357534
+    second: fx_midnight_67
+  - first:
+      213: -3165589635275027206
+    second: fx_midnight_68
+  - first:
+      213: 1570766736342479785
+    second: fx_midnight_69
+  - first:
+      213: 730617950361747637
+    second: fx_midnight_70
+  - first:
+      213: -4422668221149596740
+    second: fx_midnight_71
+  - first:
+      213: 8591466349185640980
+    second: fx_midnight_72
+  - first:
+      213: 8949129026002554732
+    second: fx_midnight_73
+  - first:
+      213: 5844663107399435619
+    second: fx_midnight_74
+  - first:
+      213: -8739640899279742031
+    second: fx_midnight_75
+  - first:
+      213: 5375982062655821490
+    second: fx_midnight_76
+  - first:
+      213: -1827678325729588517
+    second: fx_midnight_77
+  - first:
+      213: 7456942973712532055
+    second: fx_midnight_78
+  - first:
+      213: 8950724877029263617
+    second: fx_midnight_79
+  - first:
+      213: -5328671494599908249
+    second: fx_midnight_80
+  - first:
+      213: 1143735557531409764
+    second: fx_midnight_81
+  - first:
+      213: -2294146712626719255
+    second: fx_midnight_82
+  - first:
+      213: -8718900271126393863
+    second: fx_midnight_83
+  - first:
+      213: -4736581695967584808
+    second: fx_midnight_84
+  - first:
+      213: -3104599234356834776
+    second: fx_midnight_85
+  - first:
+      213: 7189680647242701439
+    second: fx_midnight_86
+  - first:
+      213: -6690107995950097941
+    second: fx_midnight_87
+  - first:
+      213: 1518649068134814982
+    second: fx_midnight_88
+  - first:
+      213: 6547387964732382695
+    second: fx_midnight_89
+  - first:
+      213: -3213512955680055126
+    second: fx_midnight_90
+  - first:
+      213: -5520471801864002702
+    second: fx_midnight_91
+  - first:
+      213: 5359468398496743649
+    second: fx_midnight_92
+  - first:
+      213: -672161455307737326
+    second: fx_midnight_93
+  - first:
+      213: -4736849372052900712
+    second: fx_midnight_94
+  - first:
+      213: 3775044327288983088
+    second: fx_midnight_95
+  - first:
+      213: 878838652569858635
+    second: fx_midnight_96
+  - first:
+      213: -3404489588867485201
+    second: fx_midnight_97
+  - first:
+      213: -8709438448109132538
+    second: fx_midnight_98
+  - first:
+      213: -3991280892767415553
+    second: fx_midnight_99
+  - first:
+      213: -5639001413888232447
+    second: fx_midnight_100
+  - first:
+      213: -3562782105276541579
+    second: fx_midnight_101
+  - first:
+      213: 7269926365849092122
+    second: fx_midnight_102
+  - first:
+      213: 8879398058376503857
+    second: fx_midnight_103
+  - first:
+      213: -2430110265232595334
+    second: fx_midnight_104
+  - first:
+      213: -4295543623123827803
+    second: fx_midnight_105
+  - first:
+      213: -8319177261443947855
+    second: fx_midnight_106
+  - first:
+      213: 6665651614669060984
+    second: fx_midnight_107
+  - first:
+      213: 3237973069805445533
+    second: fx_midnight_108
+  - first:
+      213: 1558660749254456734
+    second: fx_midnight_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_midnight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba2b38ffcf9b343a236ebcd9eb33dc
+      internalID: -3952664021365493731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5f6c992068f544db90ba2bd3cd4a80
+      internalID: -7724936954760577913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34336f8ce737a44b9a7bd1548769168
+      internalID: -1888877157817206785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084b5e5028ecfc409b00bc762a236ac
+      internalID: 264119669970353558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c8399007c430145abe5c16e274f584
+      internalID: 15230518691413246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b038fa3924004a8a8dd1d9ff2db92
+      internalID: 2457182471032356512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73c9a1c641fe61458d335d0175f60c9
+      internalID: -9144075189733867806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b52f706ddb1264b9dd05c4925e2928
+      internalID: -7695934244566013701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb0d9fe9fe84244a857c601308b51f
+      internalID: -7377560692882834235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4d7fbf8a7b3f4da603e4d1edc0068
+      internalID: -1244358358891872790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5141e753d4c4740a09a8d41e4a26e9
+      internalID: 7880231848327292880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_11
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53efcc8102a0548b28b03c341f5ba7
+      internalID: -151876242362956361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_12
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73330fcbc58f4284f82ee2b8fca125da
+      internalID: -8708394438769065492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_13
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82188740f915a04db675c974e99edbe
+      internalID: 1086640537530667592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f097b1bf2321634c817befc2b87fdae
+      internalID: -4669301377184977443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_15
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709cf81412837bb4ab4af59cc838cdca
+      internalID: 3435167962783776178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04396d20a9c4174dbdb43393157687a
+      internalID: 344142671839219502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_17
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62d313d23dd934ba2ef9b9acb8acd7
+      internalID: -3591703047787375254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_18
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ab74a750c89934da57e0fb802dd346
+      internalID: -7843900311883163409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_19
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0164fd6005d1fa645a92b1428ea646bd
+      internalID: 6768767821878608444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_20
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d29a3c65856a640a1a7e5726c5cc57
+      internalID: -4100713760100806068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_21
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bcf14903388c74cbc544c4f2e6a3f1
+      internalID: 5352512621901761156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_22
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d088c222477799940a7d313322297bf1
+      internalID: 4086432650350132952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_23
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a313cb0864c649be29934cd89ecfd
+      internalID: 1895267520231438233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_24
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9912d936ffb6498cf7f0838bab5b3
+      internalID: 5914876969637554494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_25
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7791fcfaa43be43b02f8e5b7fbbac3
+      internalID: -5893659013156507105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_26
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c3adadeeaabde44a2c75f4af7bdc9e
+      internalID: -8721646136020696148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_27
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604c7b7c38d74f4096043688efa95aa
+      internalID: -7214228395019097620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_28
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f5765f3613c544b37c685b6fe4642
+      internalID: 6287745256144053519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_29
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308722577c1375409b09a44032919be
+      internalID: -1318673150274160889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_midnight_30
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6f2ea3b4a67d479927bf788f4586d
+      internalID: -7082171332033862445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 326ab70acc865644e9d37324963fb56e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fx_midnight_0: -3952664021365493731
+      fx_midnight_1: -7724936954760577913
+      fx_midnight_10: 7880231848327292880
+      fx_midnight_11: -151876242362956361
+      fx_midnight_12: -8708394438769065492
+      fx_midnight_13: 1086640537530667592
+      fx_midnight_14: -4669301377184977443
+      fx_midnight_15: 3435167962783776178
+      fx_midnight_16: 344142671839219502
+      fx_midnight_17: -3591703047787375254
+      fx_midnight_18: -7843900311883163409
+      fx_midnight_19: 6768767821878608444
+      fx_midnight_2: -1888877157817206785
+      fx_midnight_20: -4100713760100806068
+      fx_midnight_21: 5352512621901761156
+      fx_midnight_22: 4086432650350132952
+      fx_midnight_23: 1895267520231438233
+      fx_midnight_24: 5914876969637554494
+      fx_midnight_25: -5893659013156507105
+      fx_midnight_26: -8721646136020696148
+      fx_midnight_27: -7214228395019097620
+      fx_midnight_28: 6287745256144053519
+      fx_midnight_29: -1318673150274160889
+      fx_midnight_3: 264119669970353558
+      fx_midnight_30: -7082171332033862445
+      fx_midnight_4: 15230518691413246
+      fx_midnight_5: 2457182471032356512
+      fx_midnight_6: -9144075189733867806
+      fx_midnight_7: -7695934244566013701
+      fx_midnight_8: -7377560692882834235
+      fx_midnight_9: -1244358358891872790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

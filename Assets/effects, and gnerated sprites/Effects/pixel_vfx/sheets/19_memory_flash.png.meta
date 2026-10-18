@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 4613537e23712bc409116a7c72f73b7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2270244589444982240
+    second: 19_memory_flash_0
+  - first:
+      213: -7152237083584362421
+    second: 19_memory_flash_1
+  - first:
+      213: 563488773510817658
+    second: 19_memory_flash_2
+  - first:
+      213: 3088496763639198130
+    second: 19_memory_flash_3
+  - first:
+      213: 2134406105889704963
+    second: 19_memory_flash_4
+  - first:
+      213: 4914930746522804940
+    second: 19_memory_flash_5
+  - first:
+      213: -8614196820620334480
+    second: 19_memory_flash_6
+  - first:
+      213: 4760670845537170086
+    second: 19_memory_flash_7
+  - first:
+      213: 8402037280553802506
+    second: 19_memory_flash_8
+  - first:
+      213: -8512095346662043941
+    second: 19_memory_flash_9
+  - first:
+      213: -7949033634721918757
+    second: 19_memory_flash_10
+  - first:
+      213: 5801321151611330787
+    second: 19_memory_flash_11
+  - first:
+      213: -7208007634579097692
+    second: 19_memory_flash_12
+  - first:
+      213: 4069822179031014289
+    second: 19_memory_flash_13
+  - first:
+      213: -5219072235659421637
+    second: 19_memory_flash_14
+  - first:
+      213: 5457523537885533612
+    second: 19_memory_flash_15
+  - first:
+      213: -973450632988600279
+    second: 19_memory_flash_16
+  - first:
+      213: -2133872991429425954
+    second: 19_memory_flash_17
+  - first:
+      213: 8517277798196976248
+    second: 19_memory_flash_18
+  - first:
+      213: 8293244813396090590
+    second: 19_memory_flash_19
+  - first:
+      213: 1750157716677685568
+    second: 19_memory_flash_20
+  - first:
+      213: 1197608013299125890
+    second: 19_memory_flash_21
+  - first:
+      213: -8631436802423088873
+    second: 19_memory_flash_22
+  - first:
+      213: -8671106697046124236
+    second: 19_memory_flash_23
+  - first:
+      213: -9199611420884177657
+    second: 19_memory_flash_24
+  - first:
+      213: 8763879138213954966
+    second: 19_memory_flash_25
+  - first:
+      213: 326720044759516604
+    second: 19_memory_flash_26
+  - first:
+      213: 5920901633033964538
+    second: 19_memory_flash_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 19_memory_flash_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 51
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a11ecf2987e70e0800000000000000
+      internalID: -2270244589444982240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 63
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48049344462ebc90800000000000000
+      internalID: -7152237083584362421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 55
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a776804dd0ae1d700800000000000000
+      internalID: 563488773510817658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b178a6617b8cda20800000000000000
+      internalID: 3088496763639198130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 67
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c0bf37b0fee9d10800000000000000
+      internalID: 2134406105889704963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 59
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2232a3977553440800000000000000
+      internalID: 4914930746522804940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 67
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a20a1b1a9347880800000000000000
+      internalID: -8614196820620334480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 549
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23dc039ec411240800000000000000
+      internalID: 4760670845537170086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 55
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b9ff804680a9470800000000000000
+      internalID: 8402037280553802506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 59
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde04f79166fed980800000000000000
+      internalID: -8512095346662043941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd094c6660c5fa190800000000000000
+      internalID: -7949033634721918757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0e0c5c9de628050800000000000000
+      internalID: 5801321151611330787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 47
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7fb9afe3308fb90800000000000000
+      internalID: -7208007634579097692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 23
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b562085b9ea7830800000000000000
+      internalID: 4069822179031014289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b389a6814712297b0800000000000000
+      internalID: -5219072235659421637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca510051eb40dbb40800000000000000
+      internalID: 5457523537885533612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928d55e8ecb9d72f0800000000000000
+      internalID: -973450632988600279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed48c0ee1d5f262e0800000000000000
+      internalID: -2133872991429425954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1adee703733670800000000000000
+      internalID: 8517277798196976248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede13d1e736871370800000000000000
+      internalID: 8293244813396090590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0417b7bab2fc94810800000000000000
+      internalID: 1750157716677685568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e0bd49422ce9010800000000000000
+      internalID: 1197608013299125890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7199652a5f9f63880800000000000000
+      internalID: -8631436802423088873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391e09866a0aa780800000000000000
+      internalID: -8671106697046124236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d6292872a645080800000000000000
+      internalID: -9199611420884177657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69503b7a4ad8f9970800000000000000
+      internalID: 8763879138213954966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb504e0562eb88400800000000000000
+      internalID: 326720044759516604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19_memory_flash_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb050b3aa44b2250800000000000000
+      internalID: 5920901633033964538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      19_memory_flash_0: -2270244589444982240
+      19_memory_flash_1: -7152237083584362421
+      19_memory_flash_10: -7949033634721918757
+      19_memory_flash_11: 5801321151611330787
+      19_memory_flash_12: -7208007634579097692
+      19_memory_flash_13: 4069822179031014289
+      19_memory_flash_14: -5219072235659421637
+      19_memory_flash_15: 5457523537885533612
+      19_memory_flash_16: -973450632988600279
+      19_memory_flash_17: -2133872991429425954
+      19_memory_flash_18: 8517277798196976248
+      19_memory_flash_19: 8293244813396090590
+      19_memory_flash_2: 563488773510817658
+      19_memory_flash_20: 1750157716677685568
+      19_memory_flash_21: 1197608013299125890
+      19_memory_flash_22: -8631436802423088873
+      19_memory_flash_23: -8671106697046124236
+      19_memory_flash_24: -9199611420884177657
+      19_memory_flash_25: 8763879138213954966
+      19_memory_flash_26: 326720044759516604
+      19_memory_flash_27: 5920901633033964538
+      19_memory_flash_3: 3088496763639198130
+      19_memory_flash_4: 2134406105889704963
+      19_memory_flash_5: 4914930746522804940
+      19_memory_flash_6: -8614196820620334480
+      19_memory_flash_7: 4760670845537170086
+      19_memory_flash_8: 8402037280553802506
+      19_memory_flash_9: -8512095346662043941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

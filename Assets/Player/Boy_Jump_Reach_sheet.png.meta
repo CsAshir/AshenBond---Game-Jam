@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: a977d4ace09271d4ea4f8b01a443b4cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -258258113079678713
+    second: Boy_Jump_Reach_sheet_0
+  - first:
+      213: 7422784904166396653
+    second: Boy_Jump_Reach_sheet_1
+  - first:
+      213: 1733324550124423628
+    second: Boy_Jump_Reach_sheet_2
+  - first:
+      213: 3622020985020133838
+    second: Boy_Jump_Reach_sheet_3
+  - first:
+      213: 1109259886439722481
+    second: Boy_Jump_Reach_sheet_4
+  - first:
+      213: 1913425696529749429
+    second: Boy_Jump_Reach_sheet_5
+  - first:
+      213: -5936333796721961793
+    second: Boy_Jump_Reach_sheet_6
+  - first:
+      213: -1434571591503093942
+    second: Boy_Jump_Reach_sheet_7
+  - first:
+      213: -148016958449680072
+    second: Boy_Jump_Reach_sheet_8
+  - first:
+      213: -3527521350709192142
+    second: Boy_Jump_Reach_sheet_9
+  - first:
+      213: 2347978608054235880
+    second: Boy_Jump_Reach_sheet_10
+  - first:
+      213: 247848992703781957
+    second: Boy_Jump_Reach_sheet_11
+  - first:
+      213: -2448209918351760956
+    second: Boy_Jump_Reach_sheet_12
+  - first:
+      213: -6184887785296148854
+    second: Boy_Jump_Reach_sheet_13
+  - first:
+      213: -4775563010264618098
+    second: Boy_Jump_Reach_sheet_14
+  - first:
+      213: 1577672032324721069
+    second: Boy_Jump_Reach_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709e58d4d9b7a6cf0800000000000000
+      internalID: -258258113079678713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de258f0fa87030760800000000000000
+      internalID: 7422784904166396653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc941aaae710e0810800000000000000
+      internalID: 1733324550124423628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1b22545e0044230800000000000000
+      internalID: 3622020985020133838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd64d65df1e46f00800000000000000
+      internalID: 1109259886439722481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b592c1888add8a10800000000000000
+      internalID: 1913425696529749429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 12
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4dd3a2dd7ed9da0800000000000000
+      internalID: -5936333796721961793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 18
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f579bfcb0671ce0800000000000000
+      internalID: -1434571591503093942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 22
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8318fda4c5322fdf0800000000000000
+      internalID: -148016958449680072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 18
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a5f59650abb0fc0800000000000000
+      internalID: -3527521350709192142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f9499a12b59020800000000000000
+      internalID: 2347978608054235880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c1c008859807300800000000000000
+      internalID: 247848992703781957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 0
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c12e09ec06360ed0800000000000000
+      internalID: -2448209918351760956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8645c5045dda2aa0800000000000000
+      internalID: -6184887785296148854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8baea28ebac9bdb0800000000000000
+      internalID: -4775563010264618098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Jump_Reach_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 0
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da998c2ca5405e510800000000000000
+      internalID: 1577672032324721069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boy_Jump_Reach_sheet_0: -258258113079678713
+      Boy_Jump_Reach_sheet_1: 7422784904166396653
+      Boy_Jump_Reach_sheet_10: 2347978608054235880
+      Boy_Jump_Reach_sheet_11: 247848992703781957
+      Boy_Jump_Reach_sheet_12: -2448209918351760956
+      Boy_Jump_Reach_sheet_13: -6184887785296148854
+      Boy_Jump_Reach_sheet_14: -4775563010264618098
+      Boy_Jump_Reach_sheet_15: 1577672032324721069
+      Boy_Jump_Reach_sheet_2: 1733324550124423628
+      Boy_Jump_Reach_sheet_3: 3622020985020133838
+      Boy_Jump_Reach_sheet_4: 1109259886439722481
+      Boy_Jump_Reach_sheet_5: 1913425696529749429
+      Boy_Jump_Reach_sheet_6: -5936333796721961793
+      Boy_Jump_Reach_sheet_7: -1434571591503093942
+      Boy_Jump_Reach_sheet_8: -148016958449680072
+      Boy_Jump_Reach_sheet_9: -3527521350709192142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 984aa974510dbf8488ffda4157feb50d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1340180427363992984
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_0
+  - first:
+      213: 2376620467487810246
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_1
+  - first:
+      213: 1187607487903228552
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_2
+  - first:
+      213: -4909319540686474096
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_3
+  - first:
+      213: -2266791482023229112
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_4
+  - first:
+      213: -8283405882852114462
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_5
+  - first:
+      213: -4039603301554821406
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_6
+  - first:
+      213: 4940043244610551255
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_7
+  - first:
+      213: -288836990253766848
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_8
+  - first:
+      213: 2424288700907942582
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_9
+  - first:
+      213: 7180463868848479501
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_10
+  - first:
+      213: 6485247950598241685
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_11
+  - first:
+      213: 8014920436350681170
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_12
+  - first:
+      213: -3265874048198053005
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_13
+  - first:
+      213: -4380761750427779687
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_14
+  - first:
+      213: 6602770159323574796
+    second: pixellab-calm-careful-walk-cycle--side--1792232478415_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ab90c7009b66de0800000000000000
+      internalID: -1340180427363992984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2a88a29b37bf020800000000000000
+      internalID: 2376620467487810246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e011d7ba3b7010800000000000000
+      internalID: 1187607487903228552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094bf7073e79edbb0800000000000000
+      internalID: -4909319540686474096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849cf16382dba80e0800000000000000
+      internalID: -2266791482023229112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eff736ac3e6b0d80800000000000000
+      internalID: -8283405882852114462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e66451333270f7c0800000000000000
+      internalID: -4039603301554821406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd7412582f8e8440800000000000000
+      internalID: 4940043244610551255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476ee5a948ddfbf0800000000000000
+      internalID: -288836990253766848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b27c92aabdc4a120800000000000000
+      internalID: 2424288700907942582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d9d3158d126a360800000000000000
+      internalID: 7180463868848479501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dfcb796aa300a50800000000000000
+      internalID: 6485247950598241685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25083b70ca7ba3f60800000000000000
+      internalID: 8014920436350681170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373fcf34bd84da2d0800000000000000
+      internalID: -3265874048198053005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d3224f5686433c0800000000000000
+      internalID: -4380761750427779687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-calm-careful-walk-cycle--side--1792232478415_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02f7081a70c1ab50800000000000000
+      internalID: 6602770159323574796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixellab-calm-careful-walk-cycle--side--1792232478415_0: -1340180427363992984
+      pixellab-calm-careful-walk-cycle--side--1792232478415_1: 2376620467487810246
+      pixellab-calm-careful-walk-cycle--side--1792232478415_10: 7180463868848479501
+      pixellab-calm-careful-walk-cycle--side--1792232478415_11: 6485247950598241685
+      pixellab-calm-careful-walk-cycle--side--1792232478415_12: 8014920436350681170
+      pixellab-calm-careful-walk-cycle--side--1792232478415_13: -3265874048198053005
+      pixellab-calm-careful-walk-cycle--side--1792232478415_14: -4380761750427779687
+      pixellab-calm-careful-walk-cycle--side--1792232478415_15: 6602770159323574796
+      pixellab-calm-careful-walk-cycle--side--1792232478415_2: 1187607487903228552
+      pixellab-calm-careful-walk-cycle--side--1792232478415_3: -4909319540686474096
+      pixellab-calm-careful-walk-cycle--side--1792232478415_4: -2266791482023229112
+      pixellab-calm-careful-walk-cycle--side--1792232478415_5: -8283405882852114462
+      pixellab-calm-careful-walk-cycle--side--1792232478415_6: -4039603301554821406
+      pixellab-calm-careful-walk-cycle--side--1792232478415_7: 4940043244610551255
+      pixellab-calm-careful-walk-cycle--side--1792232478415_8: -288836990253766848
+      pixellab-calm-careful-walk-cycle--side--1792232478415_9: 2424288700907942582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

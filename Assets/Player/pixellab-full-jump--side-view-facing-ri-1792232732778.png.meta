@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 28d0793d44d0e4640840b8f8a8bcdf81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4496162236955647038
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_0
+  - first:
+      213: -8217065677445593905
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_1
+  - first:
+      213: 8706091285377881128
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_2
+  - first:
+      213: 7057780931171279071
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_3
+  - first:
+      213: -6487661242999935746
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_4
+  - first:
+      213: 8775017563658722785
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_5
+  - first:
+      213: 8419865998393410288
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_6
+  - first:
+      213: 3741268769556495712
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_7
+  - first:
+      213: 6530150542407256511
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_8
+  - first:
+      213: 3055225139835497303
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_9
+  - first:
+      213: 535728445703289226
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_10
+  - first:
+      213: -6434074839252814786
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_11
+  - first:
+      213: 197140816939502759
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_12
+  - first:
+      213: 2112539814710193728
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_13
+  - first:
+      213: 9108844392151414011
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_14
+  - first:
+      213: -3600810633409014707
+    second: pixellab-full-jump--side-view-facing-ri-1792232732778_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c544a9bb3956e30800000000000000
+      internalID: 4496162236955647038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc40dcf5d4e17fd80800000000000000
+      internalID: -8217065677445593905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 191
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824921fa5ef32d870800000000000000
+      internalID: 8706091285377881128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd06df8fc5642f160800000000000000
+      internalID: 7057780931171279071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc6bebf87237f5a0800000000000000
+      internalID: -6487661242999935746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 131
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed11bb6bff17c970800000000000000
+      internalID: 8775017563658722785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 135
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f201a2e38f59d470800000000000000
+      internalID: 8419865998393410288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 137
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d7da2bf18abe330800000000000000
+      internalID: 3741268769556495712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 66
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb94202f151cf9a50800000000000000
+      internalID: 6530150542407256511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 65
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75becb0d317566a20800000000000000
+      internalID: 3055225139835497303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a897736de2a4f6700800000000000000
+      internalID: 535728445703289226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34be0cd50395b6a0800000000000000
+      internalID: -6434074839252814786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acc86c47826cb200800000000000000
+      internalID: 197140816939502759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eabadc4cf315d10800000000000000
+      internalID: 2112539814710193728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf47e74c6bd196e70800000000000000
+      internalID: 9108844392151414011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-full-jump--side-view-facing-ri-1792232732778_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d43c8ec9570ec0800000000000000
+      internalID: -3600810633409014707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixellab-full-jump--side-view-facing-ri-1792232732778_0: 4496162236955647038
+      pixellab-full-jump--side-view-facing-ri-1792232732778_1: -8217065677445593905
+      pixellab-full-jump--side-view-facing-ri-1792232732778_10: 535728445703289226
+      pixellab-full-jump--side-view-facing-ri-1792232732778_11: -6434074839252814786
+      pixellab-full-jump--side-view-facing-ri-1792232732778_12: 197140816939502759
+      pixellab-full-jump--side-view-facing-ri-1792232732778_13: 2112539814710193728
+      pixellab-full-jump--side-view-facing-ri-1792232732778_14: 9108844392151414011
+      pixellab-full-jump--side-view-facing-ri-1792232732778_15: -3600810633409014707
+      pixellab-full-jump--side-view-facing-ri-1792232732778_2: 8706091285377881128
+      pixellab-full-jump--side-view-facing-ri-1792232732778_3: 7057780931171279071
+      pixellab-full-jump--side-view-facing-ri-1792232732778_4: -6487661242999935746
+      pixellab-full-jump--side-view-facing-ri-1792232732778_5: 8775017563658722785
+      pixellab-full-jump--side-view-facing-ri-1792232732778_6: 8419865998393410288
+      pixellab-full-jump--side-view-facing-ri-1792232732778_7: 3741268769556495712
+      pixellab-full-jump--side-view-facing-ri-1792232732778_8: 6530150542407256511
+      pixellab-full-jump--side-view-facing-ri-1792232732778_9: 3055225139835497303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

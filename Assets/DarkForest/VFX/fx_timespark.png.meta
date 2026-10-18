@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: c437d539e518933459f3de28cf7f0a70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6207033360941253962
+    second: fx_timespark_0
+  - first:
+      213: 2111586251992307449
+    second: fx_timespark_1
+  - first:
+      213: 6839108156316339853
+    second: fx_timespark_2
+  - first:
+      213: -6219195534692957312
+    second: fx_timespark_3
+  - first:
+      213: -309335016703023227
+    second: fx_timespark_4
+  - first:
+      213: -3793513604962589901
+    second: fx_timespark_5
+  - first:
+      213: 6182306405789419890
+    second: fx_timespark_6
+  - first:
+      213: -7557011944778652171
+    second: fx_timespark_7
+  - first:
+      213: 8418404688657886656
+    second: fx_timespark_8
+  - first:
+      213: -3265387293979642744
+    second: fx_timespark_9
+  - first:
+      213: -7800234422617583476
+    second: fx_timespark_10
+  - first:
+      213: -5016541644653513798
+    second: fx_timespark_11
+  - first:
+      213: -7753051910373079144
+    second: fx_timespark_12
+  - first:
+      213: -4192406888299598212
+    second: fx_timespark_13
+  - first:
+      213: -6154595397680111006
+    second: fx_timespark_14
+  - first:
+      213: 9081459640222346410
+    second: fx_timespark_15
+  - first:
+      213: 1790426793688906715
+    second: fx_timespark_16
+  - first:
+      213: -5799951311382540051
+    second: fx_timespark_17
+  - first:
+      213: -1358437855989074913
+    second: fx_timespark_18
+  - first:
+      213: 661525845497206032
+    second: fx_timespark_19
+  - first:
+      213: -5407995144666533102
+    second: fx_timespark_20
+  - first:
+      213: 819660162544082384
+    second: fx_timespark_21
+  - first:
+      213: 293739724938335004
+    second: fx_timespark_22
+  - first:
+      213: 7254829760981499086
+    second: fx_timespark_23
+  - first:
+      213: 8633238484154266718
+    second: fx_timespark_24
+  - first:
+      213: -9210781580399364235
+    second: fx_timespark_25
+  - first:
+      213: -5309860410418835145
+    second: fx_timespark_26
+  - first:
+      213: 5127954933659792442
+    second: fx_timespark_27
+  - first:
+      213: -110447350211541082
+    second: fx_timespark_28
+  - first:
+      213: 7445509678373443277
+    second: fx_timespark_29
+  - first:
+      213: -3916919215020000469
+    second: fx_timespark_30
+  - first:
+      213: 3795051017179492619
+    second: fx_timespark_31
+  - first:
+      213: 1073210111101138264
+    second: fx_timespark_32
+  - first:
+      213: 711061529551989911
+    second: fx_timespark_33
+  - first:
+      213: -9210504738754120799
+    second: fx_timespark_34
+  - first:
+      213: -6946780139869250318
+    second: fx_timespark_35
+  - first:
+      213: 270089326865227466
+    second: fx_timespark_36
+  - first:
+      213: 2024298786285379609
+    second: fx_timespark_37
+  - first:
+      213: -3206144539135885147
+    second: fx_timespark_38
+  - first:
+      213: 5847749568846214375
+    second: fx_timespark_39
+  - first:
+      213: 8602622064664590753
+    second: fx_timespark_40
+  - first:
+      213: 6553788628926665974
+    second: fx_timespark_41
+  - first:
+      213: -6713492975490734335
+    second: fx_timespark_42
+  - first:
+      213: -987858023427073079
+    second: fx_timespark_43
+  - first:
+      213: -862807836654830519
+    second: fx_timespark_44
+  - first:
+      213: -3858640102485181606
+    second: fx_timespark_45
+  - first:
+      213: 8825124137575596835
+    second: fx_timespark_46
+  - first:
+      213: -7398632386282316737
+    second: fx_timespark_47
+  - first:
+      213: 8344639750202077598
+    second: fx_timespark_48
+  - first:
+      213: -8515956180855214645
+    second: fx_timespark_49
+  - first:
+      213: -8622507482160608752
+    second: fx_timespark_50
+  - first:
+      213: -6263374297178861894
+    second: fx_timespark_51
+  - first:
+      213: -4435454324962234012
+    second: fx_timespark_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_timespark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71653c7ece7df064499321395d6825b8
+      internalID: -6207033360941253962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f572d1210e2543b372741fa247a50
+      internalID: 2111586251992307449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96fd601427060240bd79b6fe20b9fd1
+      internalID: 6839108156316339853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a275d6dc8f94e34ca904e14d245f3d3
+      internalID: -6219195534692957312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d856481f564bc458794d859f70c538
+      internalID: -309335016703023227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80641f6098d8a6f489b6957b51fd9148
+      internalID: -3793513604962589901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb67810a61b9e94ea4761485ad270f3
+      internalID: 6182306405789419890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2781852d643d84cb387d37b6a03d83
+      internalID: -7557011944778652171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57eb2dd9ed82194eb5d86ad4794fe00
+      internalID: 8418404688657886656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063d55e83daea6459d35f639807a0b2
+      internalID: -3265387293979642744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a06ab911cc85e42a84e6aba81042df
+      internalID: -7800234422617583476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f90906ec37a34bab62af0d03e4efe
+      internalID: -5016541644653513798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_12
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f587f71e875bd74ba8b62fd32bda905
+      internalID: -7753051910373079144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_13
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf12ce62d79a2404087570d0c0062763
+      internalID: -4192406888299598212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0609f15b0cc5e5c49b0f0207aeffc796
+      internalID: -6154595397680111006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d069c305975ce45ba7a33e588e02b8
+      internalID: 9081459640222346410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640950a2e1e16346bd3e4e131b1e693
+      internalID: 1790426793688906715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_17
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0688907be52ae45a49b3f2611ee76c
+      internalID: -5799951311382540051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_18
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5cbc42a5c1e1f428c7cf0e790900d7
+      internalID: -1358437855989074913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_19
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b216f07e94d841bdae0ff038cf47a
+      internalID: 661525845497206032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_20
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8d609d38fdaa43a4af8cebcac2656
+      internalID: -5407995144666533102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_21
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaa66eb0db32dd42b16312a747a7e67
+      internalID: 819660162544082384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_22
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66457dbf988c1f641a61e1b0d26c90c0
+      internalID: 293739724938335004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_23
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007eee1ca769bc0498d75eb94c4b09c6
+      internalID: 7254829760981499086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_24
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bd73d10c387264d94ca5cf3dfe3387
+      internalID: 8633238484154266718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_25
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c94c6dbf0b694fae9e4a316023827
+      internalID: -9210781580399364235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_26
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0060c7977fa39042b26b1449d18f861
+      internalID: -5309860410418835145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_27
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049208decc7b6640b00afc46fa2f3cd
+      internalID: 5127954933659792442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_28
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe1db8ca15ea9f49a41cdb0e1dd1f5c
+      internalID: -110447350211541082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_29
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d98cb900a0ef44b43251fba2ec3b7
+      internalID: 7445509678373443277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_30
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e05bc955a73ff40be0e116230152b9
+      internalID: -3916919215020000469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_31
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75dfa79cc70adc4594f2008ee950cc2
+      internalID: 3795051017179492619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_32
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f5fb86be63cbf45941999e9525f15d
+      internalID: 1073210111101138264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_33
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d870c0d2a8279214bbfb90fbad993c7a
+      internalID: 711061529551989911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_34
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991d97dacac55c4abd5a62068200935
+      internalID: -9210504738754120799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_timespark_35
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2565c08cf8347f84da0cae12eef27061
+      internalID: -6946780139869250318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 90409ff97516bea488099c44d60d9a17
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fx_timespark_0: -6207033360941253962
+      fx_timespark_1: 2111586251992307449
+      fx_timespark_10: -7800234422617583476
+      fx_timespark_11: -5016541644653513798
+      fx_timespark_12: -7753051910373079144
+      fx_timespark_13: -4192406888299598212
+      fx_timespark_14: -6154595397680111006
+      fx_timespark_15: 9081459640222346410
+      fx_timespark_16: 1790426793688906715
+      fx_timespark_17: -5799951311382540051
+      fx_timespark_18: -1358437855989074913
+      fx_timespark_19: 661525845497206032
+      fx_timespark_2: 6839108156316339853
+      fx_timespark_20: -5407995144666533102
+      fx_timespark_21: 819660162544082384
+      fx_timespark_22: 293739724938335004
+      fx_timespark_23: 7254829760981499086
+      fx_timespark_24: 8633238484154266718
+      fx_timespark_25: -9210781580399364235
+      fx_timespark_26: -5309860410418835145
+      fx_timespark_27: 5127954933659792442
+      fx_timespark_28: -110447350211541082
+      fx_timespark_29: 7445509678373443277
+      fx_timespark_3: -6219195534692957312
+      fx_timespark_30: -3916919215020000469
+      fx_timespark_31: 3795051017179492619
+      fx_timespark_32: 1073210111101138264
+      fx_timespark_33: 711061529551989911
+      fx_timespark_34: -9210504738754120799
+      fx_timespark_35: -6946780139869250318
+      fx_timespark_4: -309335016703023227
+      fx_timespark_5: -3793513604962589901
+      fx_timespark_6: 6182306405789419890
+      fx_timespark_7: -7557011944778652171
+      fx_timespark_8: 8418404688657886656
+      fx_timespark_9: -3265387293979642744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

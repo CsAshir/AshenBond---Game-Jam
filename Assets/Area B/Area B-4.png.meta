@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 2167a698fd2d5dc40a6ccc734d09f94a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2893751138167580054
+    second: Area B-4_0
+  - first:
+      213: 3247985538944749043
+    second: Area B-4_1
+  - first:
+      213: -5691774159108655231
+    second: Area B-4_2
+  - first:
+      213: 520213771641444647
+    second: Area B-4_3
+  - first:
+      213: 8616494263363235211
+    second: Area B-4_4
+  - first:
+      213: 5636511829783974493
+    second: Area B-4_5
+  - first:
+      213: -5003810308665120487
+    second: Area B-4_6
+  - first:
+      213: 8292588672913635874
+    second: Area B-4_7
+  - first:
+      213: -4764960911886132297
+    second: Area B-4_8
+  - first:
+      213: -7424450578861861733
+    second: Area B-4_9
+  - first:
+      213: -873684956934035617
+    second: Area B-4_10
+  - first:
+      213: -7783192939146875663
+    second: Area B-4_11
+  - first:
+      213: 1243951379006800305
+    second: Area B-4_12
+  - first:
+      213: 7934187391306818949
+    second: Area B-4_13
+  - first:
+      213: 8875949049187041390
+    second: Area B-4_14
+  - first:
+      213: -7630255913576399009
+    second: Area B-4_15
+  - first:
+      213: -6195081214929367403
+    second: Area B-4_16
+  - first:
+      213: -4674553059254175629
+    second: Area B-4_17
+  - first:
+      213: -3064599683948391725
+    second: Area B-4_18
+  - first:
+      213: 4599701055816129714
+    second: Area B-4_19
+  - first:
+      213: 6653875965545107956
+    second: Area B-4_20
+  - first:
+      213: -4792341974500005090
+    second: Area B-4_21
+  - first:
+      213: 4071152041854639121
+    second: Area B-4_22
+  - first:
+      213: -568372068770409148
+    second: Area B-4_23
+  - first:
+      213: -3188433745888996502
+    second: Area B-4_24
+  - first:
+      213: 3530979468455651339
+    second: Area B-4_25
+  - first:
+      213: 5825925569675772490
+    second: Area B-4_26
+  - first:
+      213: 1592836817004725520
+    second: Area B-4_27
+  - first:
+      213: -1898713952851711646
+    second: Area B-4_28
+  - first:
+      213: 1671002878943524551
+    second: Area B-4_29
+  - first:
+      213: -1107697624656500029
+    second: Area B-4_30
+  - first:
+      213: -8046026570639250304
+    second: Area B-4_31
+  - first:
+      213: 1999418209183058333
+    second: Area B-4_32
+  - first:
+      213: -5160448543152779841
+    second: Area B-4_33
+  - first:
+      213: 6757259527831229319
+    second: Area B-4_34
+  - first:
+      213: 774090901115466204
+    second: Area B-4_35
+  - first:
+      213: 385245256392250153
+    second: Area B-4_36
+  - first:
+      213: 7558529346001603225
+    second: Area B-4_37
+  - first:
+      213: -4336197658911195724
+    second: Area B-4_38
+  - first:
+      213: 8988679663958454209
+    second: Area B-4_39
+  - first:
+      213: -6378059470735070174
+    second: Area B-4_40
+  - first:
+      213: -583140478595420709
+    second: Area B-4_41
+  - first:
+      213: 3000629136599920930
+    second: Area B-4_42
+  - first:
+      213: -1056511527064965300
+    second: Area B-4_43
+  - first:
+      213: -9160476932429095807
+    second: Area B-4_44
+  - first:
+      213: 1298367746741050377
+    second: Area B-4_45
+  - first:
+      213: 580615325281707810
+    second: Area B-4_46
+  - first:
+      213: -7705823832427787107
+    second: Area B-4_47
+  - first:
+      213: 6228127204046048148
+    second: Area B-4_48
+  - first:
+      213: 4374968334005490563
+    second: Area B-4_49
+  - first:
+      213: 7976642431623494952
+    second: Area B-4_50
+  - first:
+      213: 1273973533495700476
+    second: Area B-4_51
+  - first:
+      213: -1250914613330124301
+    second: Area B-4_52
+  - first:
+      213: -6617902031408870856
+    second: Area B-4_53
+  - first:
+      213: -3125920184670793622
+    second: Area B-4_54
+  - first:
+      213: -6938349368021869070
+    second: Area B-4_55
+  - first:
+      213: 145134274916447665
+    second: Area B-4_56
+  - first:
+      213: 2295811133057651517
+    second: Area B-4_57
+  - first:
+      213: 4052943592581484992
+    second: Area B-4_58
+  - first:
+      213: -3360756942102983830
+    second: Area B-4_59
+  - first:
+      213: -5077378426341520549
+    second: Area B-4_60
+  - first:
+      213: -4449299988357969169
+    second: Area B-4_61
+  - first:
+      213: -3491924426650848303
+    second: Area B-4_62
+  - first:
+      213: 4773061801836580767
+    second: Area B-4_63
+  - first:
+      213: -5897475556387697985
+    second: Area B-4_64
+  - first:
+      213: 472231170013309326
+    second: Area B-4_65
+  - first:
+      213: -1045098035075253987
+    second: Area B-4_66
+  - first:
+      213: 8817511661568801929
+    second: Area B-4_67
+  - first:
+      213: 3315227406445554055
+    second: Area B-4_68
+  - first:
+      213: 5094416790281246678
+    second: Area B-4_69
+  - first:
+      213: -3016644211961388842
+    second: Area B-4_70
+  - first:
+      213: 8366644856638742352
+    second: Area B-4_71
+  - first:
+      213: -4427176973049085083
+    second: Area B-4_72
+  - first:
+      213: -1442940853569307594
+    second: Area B-4_73
+  - first:
+      213: -1055262134688750312
+    second: Area B-4_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Area B-4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a932deba457d7d0800000000000000
+      internalID: -2893751138167580054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd486c93a9231d20800000000000000
+      internalID: 3247985538944749043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 504
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187b4900f81c201b0800000000000000
+      internalID: -5691774159108655231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 485
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72954f94bab283700800000000000000
+      internalID: 520213771641444647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 532
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8de4f061efe39770800000000000000
+      internalID: 8616494263363235211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 514
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d529f8a45a9e83e40800000000000000
+      internalID: 5636511829783974493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 512
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919e39c1905ee8ab0800000000000000
+      internalID: -5003810308665120487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 463
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22af1754671351370800000000000000
+      internalID: 8292588672913635874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 512
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbd766eb457fddb0800000000000000
+      internalID: -4764960911886132297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 452
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94de72f88d07f890800000000000000
+      internalID: -7424450578861861733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 502
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572850292c00e3f0800000000000000
+      internalID: -873684956934035617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 449
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc62db424b8cf390800000000000000
+      internalID: -7783192939146875663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 482
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1ce8f3037634110800000000000000
+      internalID: 1243951379006800305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 457
+        width: 285
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585e9303565eb1e60800000000000000
+      internalID: 7934187391306818949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 427
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60824922a4bd2b70800000000000000
+      internalID: 8875949049187041390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 468
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f74f56ca2eb1690800000000000000
+      internalID: -7630255913576399009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 463
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e807d3576a60aa0800000000000000
+      internalID: -6195081214929367403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378707b62c6a02fb0800000000000000
+      internalID: -4674553059254175629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 493
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d25b7b03da5875d0800000000000000
+      internalID: -3064599683948391725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 492
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcd8e07dbb65df30800000000000000
+      internalID: 4599701055816129714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 522
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f153d9dfe0575c50800000000000000
+      internalID: 6653875965545107956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1babb77d5e2e7db0800000000000000
+      internalID: -4792341974500005090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 516
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c1a515633af7830800000000000000
+      internalID: 4071152041854639121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 502
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4459fa46d9cbc18f0800000000000000
+      internalID: -568372068770409148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 500
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a631b62b66860c3d0800000000000000
+      internalID: -3188433745888996502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 486
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b082f7e5e1f800130800000000000000
+      internalID: 3530979468455651339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_26
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 488
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42c3644078d9d050800000000000000
+      internalID: 5825925569675772490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_27
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 482
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0150bb655a4ea1610800000000000000
+      internalID: 1592836817004725520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_28
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 478
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269223e38b966a5e0800000000000000
+      internalID: -1898713952851711646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_29
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 488
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6751ad348903710800000000000000
+      internalID: 1671002878943524551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_30
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 457
+        width: 152
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca2ec311eaa0a0f0800000000000000
+      internalID: -1107697624656500029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_31
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 453
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c61b3b675c65090800000000000000
+      internalID: -8046026570639250304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_32
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 417
+        width: 203
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99cdc3944c5fbb10800000000000000
+      internalID: 1999418209183058333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_33
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 419
+        width: 236
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd42b724676268b0800000000000000
+      internalID: -5160448543152779841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_34
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 429
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78311833dbb96cd50800000000000000
+      internalID: 6757259527831229319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_35
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 478
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd179d0c29f1eba00800000000000000
+      internalID: 774090901115466204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_36
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 469
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9231aa2058aa85500800000000000000
+      internalID: 385245256392250153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_37
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 482
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a8ac4b46a45e860800000000000000
+      internalID: 7558529346001603225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_38
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 480
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdb7b0143bb2d3c0800000000000000
+      internalID: -4336197658911195724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_39
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 468
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf6502c7843ebc70800000000000000
+      internalID: 8988679663958454209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_40
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 461
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c258a24b49c77a0800000000000000
+      internalID: -6378059470735070174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_41
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 457
+        width: 188
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd2b2703d448e7f0800000000000000
+      internalID: -583140478595420709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_42
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 482
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221b9bd3d4064a920800000000000000
+      internalID: 3000629136599920930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_43
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 513
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fef202d548651f0800000000000000
+      internalID: -1056511527064965300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_44
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 453
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c5765a3c27fd080800000000000000
+      internalID: -9160476932429095807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_45
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c135c269ab40210800000000000000
+      internalID: 1298367746741050377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_46
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 481
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2276096ef82ce0800800000000000000
+      internalID: 580615325281707810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_47
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 482
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c07663d0a6f0590800000000000000
+      internalID: -7705823832427787107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_48
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 441
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b8c1da1b0ce6650800000000000000
+      internalID: 6228127204046048148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_49
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 472
+        width: 202
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383dafb258207bc30800000000000000
+      internalID: 4374968334005490563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_50
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 454
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82df93d870ab2be60800000000000000
+      internalID: 7976642431623494952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_51
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 512
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfba24dcd201ea110800000000000000
+      internalID: 1273973533495700476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_52
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 512
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1ec1c69cbd3aee0800000000000000
+      internalID: -1250914613330124301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_53
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 532
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ac9836a2d7824a0800000000000000
+      internalID: -6617902031408870856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_54
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 534
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60597467208e94d0800000000000000
+      internalID: -3125920184670793622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_55
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 513
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd108fb20806bf90800000000000000
+      internalID: -6938349368021869070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_56
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 518
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5f025aade930200800000000000000
+      internalID: 145134274916447665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_57
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 506
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33d941df0c5cdf10800000000000000
+      internalID: 2295811133057651517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_58
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 520
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d38a59b2fe3830800000000000000
+      internalID: 4052943592581484992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_59
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 472
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b06810e513c51d0800000000000000
+      internalID: -3360756942102983830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_60
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 457
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b8eabe8378989b0800000000000000
+      internalID: -5077378426341520549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_61
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 458
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea06c6eb39e042c0800000000000000
+      internalID: -4449299988357969169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_62
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 458
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d377f62c313a8fc0800000000000000
+      internalID: -3491924426650848303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_63
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 528
+        width: 78
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f84758b625d3240800000000000000
+      internalID: 4773061801836580767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_64
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 433
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba46f54a35f72ea0800000000000000
+      internalID: -5897475556387697985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_65
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 387
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89a2844fb3bd8600800000000000000
+      internalID: 472231170013309326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_66
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 442
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1971efcfd01f71f0800000000000000
+      internalID: -1045098035075253987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_67
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 436
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c3ca693281e5a70800000000000000
+      internalID: 8817511661568801929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_68
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 441
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789a3d6e2cd020e20800000000000000
+      internalID: 3315227406445554055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_69
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 420
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7df72541103b640800000000000000
+      internalID: 5094416790281246678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_70
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 443
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0ad44721ab226d0800000000000000
+      internalID: -3016644211961388842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_71
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 445
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f1dc13b2b4c1470800000000000000
+      internalID: 8366644856638742352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_72
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 409
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563ce9bcff18f82c0800000000000000
+      internalID: -4427176973049085083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_73
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 435
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3a1f40f4a9fbe0800000000000000
+      internalID: -1442940853569307594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area B-4_74
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 433
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815e4f4fda4fa51f0800000000000000
+      internalID: -1055262134688750312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Area B-4_0: -2893751138167580054
+      Area B-4_1: 3247985538944749043
+      Area B-4_10: -873684956934035617
+      Area B-4_11: -7783192939146875663
+      Area B-4_12: 1243951379006800305
+      Area B-4_13: 7934187391306818949
+      Area B-4_14: 8875949049187041390
+      Area B-4_15: -7630255913576399009
+      Area B-4_16: -6195081214929367403
+      Area B-4_17: -4674553059254175629
+      Area B-4_18: -3064599683948391725
+      Area B-4_19: 4599701055816129714
+      Area B-4_2: -5691774159108655231
+      Area B-4_20: 6653875965545107956
+      Area B-4_21: -4792341974500005090
+      Area B-4_22: 4071152041854639121
+      Area B-4_23: -568372068770409148
+      Area B-4_24: -3188433745888996502
+      Area B-4_25: 3530979468455651339
+      Area B-4_26: 5825925569675772490
+      Area B-4_27: 1592836817004725520
+      Area B-4_28: -1898713952851711646
+      Area B-4_29: 1671002878943524551
+      Area B-4_3: 520213771641444647
+      Area B-4_30: -1107697624656500029
+      Area B-4_31: -8046026570639250304
+      Area B-4_32: 1999418209183058333
+      Area B-4_33: -5160448543152779841
+      Area B-4_34: 6757259527831229319
+      Area B-4_35: 774090901115466204
+      Area B-4_36: 385245256392250153
+      Area B-4_37: 7558529346001603225
+      Area B-4_38: -4336197658911195724
+      Area B-4_39: 8988679663958454209
+      Area B-4_4: 8616494263363235211
+      Area B-4_40: -6378059470735070174
+      Area B-4_41: -583140478595420709
+      Area B-4_42: 3000629136599920930
+      Area B-4_43: -1056511527064965300
+      Area B-4_44: -9160476932429095807
+      Area B-4_45: 1298367746741050377
+      Area B-4_46: 580615325281707810
+      Area B-4_47: -7705823832427787107
+      Area B-4_48: 6228127204046048148
+      Area B-4_49: 4374968334005490563
+      Area B-4_5: 5636511829783974493
+      Area B-4_50: 7976642431623494952
+      Area B-4_51: 1273973533495700476
+      Area B-4_52: -1250914613330124301
+      Area B-4_53: -6617902031408870856
+      Area B-4_54: -3125920184670793622
+      Area B-4_55: -6938349368021869070
+      Area B-4_56: 145134274916447665
+      Area B-4_57: 2295811133057651517
+      Area B-4_58: 4052943592581484992
+      Area B-4_59: -3360756942102983830
+      Area B-4_6: -5003810308665120487
+      Area B-4_60: -5077378426341520549
+      Area B-4_61: -4449299988357969169
+      Area B-4_62: -3491924426650848303
+      Area B-4_63: 4773061801836580767
+      Area B-4_64: -5897475556387697985
+      Area B-4_65: 472231170013309326
+      Area B-4_66: -1045098035075253987
+      Area B-4_67: 8817511661568801929
+      Area B-4_68: 3315227406445554055
+      Area B-4_69: 5094416790281246678
+      Area B-4_7: 8292588672913635874
+      Area B-4_70: -3016644211961388842
+      Area B-4_71: 8366644856638742352
+      Area B-4_72: -4427176973049085083
+      Area B-4_73: -1442940853569307594
+      Area B-4_74: -1055262134688750312
+      Area B-4_8: -4764960911886132297
+      Area B-4_9: -7424450578861861733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

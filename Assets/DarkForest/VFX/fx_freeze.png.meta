@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: fe8fefeed661d9e489fdcf2cc11b1919
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 578350745573196812
+    second: fx_freeze_0
+  - first:
+      213: -1824057327002070966
+    second: fx_freeze_1
+  - first:
+      213: -6269640392149217414
+    second: fx_freeze_2
+  - first:
+      213: -6904663328300611205
+    second: fx_freeze_3
+  - first:
+      213: 8405844895327690785
+    second: fx_freeze_4
+  - first:
+      213: -9153562222645736113
+    second: fx_freeze_5
+  - first:
+      213: 7384199823691403443
+    second: fx_freeze_6
+  - first:
+      213: -3723453140965872636
+    second: fx_freeze_7
+  - first:
+      213: -2880169548559690360
+    second: fx_freeze_8
+  - first:
+      213: 6743952786478482353
+    second: fx_freeze_9
+  - first:
+      213: 1067888081434245292
+    second: fx_freeze_10
+  - first:
+      213: 6859557833144211228
+    second: fx_freeze_11
+  - first:
+      213: -3149157585444520829
+    second: fx_freeze_12
+  - first:
+      213: -8894019180972416823
+    second: fx_freeze_13
+  - first:
+      213: 6870988077757246464
+    second: fx_freeze_14
+  - first:
+      213: -3464796539496812947
+    second: fx_freeze_15
+  - first:
+      213: -1558543960783071690
+    second: fx_freeze_16
+  - first:
+      213: 3529511367134887680
+    second: fx_freeze_17
+  - first:
+      213: 68597224018544970
+    second: fx_freeze_18
+  - first:
+      213: -7591541377894000023
+    second: fx_freeze_19
+  - first:
+      213: -553121021408411074
+    second: fx_freeze_20
+  - first:
+      213: -737529712527499031
+    second: fx_freeze_21
+  - first:
+      213: -3981602291433891248
+    second: fx_freeze_22
+  - first:
+      213: 8832852171298283442
+    second: fx_freeze_23
+  - first:
+      213: 7729616564398994378
+    second: fx_freeze_24
+  - first:
+      213: -388587895012678654
+    second: fx_freeze_25
+  - first:
+      213: 7071523552052458613
+    second: fx_freeze_26
+  - first:
+      213: 3318549899287355825
+    second: fx_freeze_27
+  - first:
+      213: -3862857295078022257
+    second: fx_freeze_28
+  - first:
+      213: -8487366243995227273
+    second: fx_freeze_29
+  - first:
+      213: -811016945951806296
+    second: fx_freeze_30
+  - first:
+      213: -4781289513418288111
+    second: fx_freeze_31
+  - first:
+      213: -4539661543943589120
+    second: fx_freeze_32
+  - first:
+      213: 3781770729447869835
+    second: fx_freeze_33
+  - first:
+      213: 8511771017996846791
+    second: fx_freeze_34
+  - first:
+      213: 1536732637074841865
+    second: fx_freeze_35
+  - first:
+      213: 5241500670903436669
+    second: fx_freeze_36
+  - first:
+      213: -6419009151258656349
+    second: fx_freeze_37
+  - first:
+      213: -781895920863738203
+    second: fx_freeze_38
+  - first:
+      213: 370577906303885848
+    second: fx_freeze_39
+  - first:
+      213: -8972686749409638073
+    second: fx_freeze_40
+  - first:
+      213: -761794019171221480
+    second: fx_freeze_41
+  - first:
+      213: 7517301166029976246
+    second: fx_freeze_42
+  - first:
+      213: 2565390994222208992
+    second: fx_freeze_43
+  - first:
+      213: 1047122930386918138
+    second: fx_freeze_44
+  - first:
+      213: 7796732771272868106
+    second: fx_freeze_45
+  - first:
+      213: -5987840834705487503
+    second: fx_freeze_46
+  - first:
+      213: 2305597657129184695
+    second: fx_freeze_47
+  - first:
+      213: -1984696757774339860
+    second: fx_freeze_48
+  - first:
+      213: 3878173463876511253
+    second: fx_freeze_49
+  - first:
+      213: 6393936883671227347
+    second: fx_freeze_50
+  - first:
+      213: 557467334457589854
+    second: fx_freeze_51
+  - first:
+      213: 8467835449804034786
+    second: fx_freeze_52
+  - first:
+      213: 5785995936922141996
+    second: fx_freeze_53
+  - first:
+      213: 7241981661120872102
+    second: fx_freeze_54
+  - first:
+      213: -2425374148859654040
+    second: fx_freeze_55
+  - first:
+      213: -3802409935509701977
+    second: fx_freeze_56
+  - first:
+      213: -4676745072313582884
+    second: fx_freeze_57
+  - first:
+      213: 5741201819990996420
+    second: fx_freeze_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_freeze_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d8ed3dddc11ea4d875838ac6af7f72
+      internalID: 578350745573196812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e8dafea0fabee4ebca8a0107f66be1
+      internalID: -1824057327002070966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcfec2703abbde4abb59a2ede4183c8
+      internalID: -6269640392149217414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c41e9710d55eb4c9ff1b92d575c1aa
+      internalID: -6904663328300611205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac40b9c33aad14390aae390d0bf5d2
+      internalID: 8405844895327690785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d367ebbfbade499b5b2bbb7dd5150
+      internalID: -9153562222645736113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f281fdc23b10b479cc49257ec42946
+      internalID: 7384199823691403443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b896ca6b3eaae459af90430aa06f0a
+      internalID: -3723453140965872636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e154e5907f717cc4686d3743240fc7fc
+      internalID: -2880169548559690360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e16fd8ba376d8b4f8e81f135185d241
+      internalID: 6743952786478482353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42a57e400e298498383af3cbf9cb14
+      internalID: 1067888081434245292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905bbce766567a84080300335aa46506
+      internalID: 6859557833144211228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_12
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c16bc2a3cb88a43a2338d4fb4b8072
+      internalID: -3149157585444520829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396efd3321f72f441b039334c631ce6d
+      internalID: -8894019180972416823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_14
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfcef9fd6daef54ebe408487dc35597
+      internalID: 6870988077757246464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_15
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df5c260e499eaa4e8048595742eac3b
+      internalID: -3464796539496812947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81b396b52100a64ca8bc04e7ae3d147
+      internalID: -1558543960783071690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_17
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2608e186032324aa25bc2ea2a6fb5e
+      internalID: 3529511367134887680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_18
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1157e83ca55cd43a5547a8d8866489
+      internalID: 68597224018544970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_19
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2da02b41f517949b2d6b2b1f11cf1f
+      internalID: -7591541377894000023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_20
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2beb8f433c76d48a08155efa9843a3
+      internalID: -553121021408411074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_21
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57638dfdd054a6d4f9b0f6f067498137
+      internalID: -737529712527499031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_22
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c438f4b62de6444a9b5cd8fff6bf31c
+      internalID: -3981602291433891248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_23
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40355e092a79dc47a1ec340f8240412
+      internalID: 8832852171298283442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_24
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b1882adef1b047956842e9fbee81a
+      internalID: 7729616564398994378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_25
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8a609e402a484e8691069c7e214b7
+      internalID: -388587895012678654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_26
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4665ee0cc3d34a865126cd947c130
+      internalID: 7071523552052458613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_27
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4174669d0a198b4493996600a2e4501
+      internalID: 3318549899287355825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_freeze_28
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a33ca81db476714c868216790c097ca
+      internalID: 1344228307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 69995e7668721fe40b419b93b7eeff84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fx_freeze_0: 578350745573196812
+      fx_freeze_1: -1824057327002070966
+      fx_freeze_10: 1067888081434245292
+      fx_freeze_11: 6859557833144211228
+      fx_freeze_12: -3149157585444520829
+      fx_freeze_13: -8894019180972416823
+      fx_freeze_14: 6870988077757246464
+      fx_freeze_15: -3464796539496812947
+      fx_freeze_16: -1558543960783071690
+      fx_freeze_17: 3529511367134887680
+      fx_freeze_18: 68597224018544970
+      fx_freeze_19: -7591541377894000023
+      fx_freeze_2: -6269640392149217414
+      fx_freeze_20: -553121021408411074
+      fx_freeze_21: -737529712527499031
+      fx_freeze_22: -3981602291433891248
+      fx_freeze_23: 8832852171298283442
+      fx_freeze_24: 7729616564398994378
+      fx_freeze_25: -388587895012678654
+      fx_freeze_26: 7071523552052458613
+      fx_freeze_27: 3318549899287355825
+      fx_freeze_28: 1344228307
+      fx_freeze_3: -6904663328300611205
+      fx_freeze_4: 8405844895327690785
+      fx_freeze_5: -9153562222645736113
+      fx_freeze_6: 7384199823691403443
+      fx_freeze_7: -3723453140965872636
+      fx_freeze_8: -2880169548559690360
+      fx_freeze_9: 6743952786478482353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

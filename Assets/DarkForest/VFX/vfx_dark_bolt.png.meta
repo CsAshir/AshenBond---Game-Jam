@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: cc57bcf5a42cb654cbebd3e5a06df8a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3219453656651676198
+    second: vfx_dark_bolt_0
+  - first:
+      213: -965832910181525419
+    second: vfx_dark_bolt_1
+  - first:
+      213: 8262196987869687866
+    second: vfx_dark_bolt_2
+  - first:
+      213: -7884615819039146731
+    second: vfx_dark_bolt_3
+  - first:
+      213: 6252549566308349543
+    second: vfx_dark_bolt_4
+  - first:
+      213: 4944803024742477741
+    second: vfx_dark_bolt_5
+  - first:
+      213: -523874246253738099
+    second: vfx_dark_bolt_6
+  - first:
+      213: -3928120288013545650
+    second: vfx_dark_bolt_7
+  - first:
+      213: 3232447968926823869
+    second: vfx_dark_bolt_8
+  - first:
+      213: 5841188759767535589
+    second: vfx_dark_bolt_9
+  - first:
+      213: 8187847634873564929
+    second: vfx_dark_bolt_10
+  - first:
+      213: -8060353981448651421
+    second: vfx_dark_bolt_11
+  - first:
+      213: 6269408036473364539
+    second: vfx_dark_bolt_12
+  - first:
+      213: -5853767909004715499
+    second: vfx_dark_bolt_13
+  - first:
+      213: -2770103782638236461
+    second: vfx_dark_bolt_14
+  - first:
+      213: 5316733213819538623
+    second: vfx_dark_bolt_15
+  - first:
+      213: 266964244983799102
+    second: vfx_dark_bolt_16
+  - first:
+      213: 3800677255630541784
+    second: vfx_dark_bolt_17
+  - first:
+      213: 5284780410446346606
+    second: vfx_dark_bolt_18
+  - first:
+      213: -6167367348625247945
+    second: vfx_dark_bolt_19
+  - first:
+      213: 6599333686506676439
+    second: vfx_dark_bolt_20
+  - first:
+      213: -7066935519572952357
+    second: vfx_dark_bolt_21
+  - first:
+      213: 6437976180780007599
+    second: vfx_dark_bolt_22
+  - first:
+      213: -5186231339325069813
+    second: vfx_dark_bolt_23
+  - first:
+      213: -3005206251557309711
+    second: vfx_dark_bolt_24
+  - first:
+      213: -2322027095782616603
+    second: vfx_dark_bolt_25
+  - first:
+      213: -2650151905034292871
+    second: vfx_dark_bolt_26
+  - first:
+      213: -4994183293440980339
+    second: vfx_dark_bolt_27
+  - first:
+      213: 6039518741385912671
+    second: vfx_dark_bolt_28
+  - first:
+      213: 9174831154804772617
+    second: vfx_dark_bolt_29
+  - first:
+      213: 6854219693079560024
+    second: vfx_dark_bolt_30
+  - first:
+      213: -6481113689516243237
+    second: vfx_dark_bolt_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx_dark_bolt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11daac30320c40e4eb4bc01436f45010
+      internalID: 3219453656651676198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dark_bolt_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68413a203772fed4abaeaeae6dd22194
+      internalID: -965832910181525419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dark_bolt_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2882cc938fde760489ea23ae80c3538a
+      internalID: 8262196987869687866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dark_bolt_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d1f7f615001e42822209a41f04098
+      internalID: -7884615819039146731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dark_bolt_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac92cc9bf4d82e42af8a3ac7ee7fd75
+      internalID: 6252549566308349543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dark_bolt_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c224afd4733026b448996839ba92b0f0
+      internalID: 4944803024742477741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dark_bolt_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d3b957432043a47ab21e998932d7e2
+      internalID: -523874246253738099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_dark_bolt_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0602ba1f08ad4fb4cab17264f7d0f515
+      internalID: -3928120288013545650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4a4f3b0080bc67c469c275e78fcbe68d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx_dark_bolt_0: 3219453656651676198
+      vfx_dark_bolt_1: -965832910181525419
+      vfx_dark_bolt_2: 8262196987869687866
+      vfx_dark_bolt_3: -7884615819039146731
+      vfx_dark_bolt_4: 6252549566308349543
+      vfx_dark_bolt_5: 4944803024742477741
+      vfx_dark_bolt_6: -523874246253738099
+      vfx_dark_bolt_7: -3928120288013545650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

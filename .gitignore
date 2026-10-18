@@ -1,0 +1,40 @@
+# Unity-generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.vs/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# Local exports and upload staging; Play/Windows is intentionally included.
+/Build/
+/Builds/
+/pc build/
+/*.zip
+/Play/*.zip
+/TrailerCaptures/
+/.GitHubUpload/
+/Enemies/
+/Docs/Media/*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Local credentials and tooling configuration
+.env
+.env.*
+/.codex/
+/.agents/
+/.aws/

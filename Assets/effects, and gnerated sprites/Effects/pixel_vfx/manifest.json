@@ -1,0 +1,252 @@
+{
+  "lantern_glow": {
+    "effect_no": 1,
+    "file": "sheets/01_lantern_glow.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 10,
+    "loop": true,
+    "note": "Lantern light + halo, 6-frame flicker. Scale/alpha with Flame in engine."
+  },
+  "ember_shot": {
+    "effect_no": 2,
+    "file": "sheets/02_ember_shot.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 4,
+    "fps": 14,
+    "loop": true,
+    "note": "Small fire bolt + trail, faces right (flip in engine)."
+  },
+  "charged_flare_impact": {
+    "effect_no": 3,
+    "file": "sheets/03_charged_flare_impact.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 7,
+    "fps": 16,
+    "loop": false,
+    "note": "Charged Flare impact burst."
+  },
+  "charged_flare_projectile": {
+    "effect_no": 3,
+    "file": "sheets/03_charged_flare_projectile.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 14,
+    "loop": true,
+    "note": "Charged Flare fireball loop (full circle, not cut), faces right."
+  },
+  "charge_ring": {
+    "effect_no": 4,
+    "file": "sheets/04_charge_ring.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 12,
+    "loop": true,
+    "note": "White-hot charge-up ring converging on the hand (no lamp in art)."
+  },
+  "fire_hit_spark": {
+    "effect_no": 5,
+    "file": "sheets/05_fire_hit_spark.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 5,
+    "fps": 18,
+    "loop": false,
+    "note": "Fire spark on wall / enemy hit."
+  },
+  "player_hurt_flash": {
+    "effect_no": 6,
+    "file": "sheets/06_player_hurt_flash.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 18,
+    "loop": false,
+    "note": "Red-white hurt flash + knock-back sparks (screen shake in code)."
+  },
+  "jump_dust": {
+    "effect_no": 7,
+    "file": "sheets/07_jump_dust.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 14,
+    "loop": false,
+    "note": "Take-off puff at feet."
+  },
+  "landing_dust": {
+    "effect_no": 7,
+    "file": "sheets/07_landing_dust.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 7,
+    "fps": 14,
+    "loop": false,
+    "note": "Landing puff, two-sided."
+  },
+  "slide_dust_trail": {
+    "effect_no": 8,
+    "file": "sheets/08_slide_dust_trail.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 14,
+    "loop": true,
+    "note": "Slide dust trail + sparks under feet (moves left, flip for direction)."
+  },
+  "fire_dash_afterimage": {
+    "effect_no": 9,
+    "file": "sheets/09_fire_dash_afterimage.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 16,
+    "loop": false,
+    "note": "Orange afterimages + blue shadow echo. Silhouette is a placeholder: swap with player frame tinted."
+  },
+  "neon_rim_amber": {
+    "effect_no": 10,
+    "file": "sheets/10_neon_rim_amber.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "note": "Neon rim glow overlay (amber) around player"
+  },
+  "neon_rim_cyan": {
+    "effect_no": 10,
+    "file": "sheets/10_neon_rim_cyan.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "note": "Neon rim glow overlay (cyan)"
+  },
+  "neon_rim_orange": {
+    "effect_no": 10,
+    "file": "sheets/10_neon_rim_orange.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "note": "Neon rim glow overlay (orange)"
+  },
+  "shadow_rise": {
+    "effect_no": 11,
+    "file": "sheets/11_shadow_rise.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 8,
+    "fps": 12,
+    "loop": false,
+    "note": "Sister Shadow Rise from boy's feet."
+  },
+  "shadow_orb": {
+    "effect_no": 12,
+    "file": "sheets/12_shadow_orb.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 4,
+    "fps": 12,
+    "loop": true,
+    "note": "Shadow orb projectile (loop), faces right."
+  },
+  "shadow_orb_impact": {
+    "effect_no": 12,
+    "file": "sheets/12_shadow_orb_impact.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 16,
+    "loop": false,
+    "note": "Purple-blue fire impact for shadow orb."
+  },
+  "shadow_strike_crescent": {
+    "effect_no": 13,
+    "file": "sheets/13_shadow_strike_crescent.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 18,
+    "loop": false,
+    "note": "Blue crescent slash (faces right). Add 3-4 frame hit-stop in code on frame 2."
+  },
+  "exposed_marker": {
+    "effect_no": 14,
+    "file": "sheets/14_exposed_marker.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 4,
+    "fps": 6,
+    "loop": true,
+    "note": "Cyan \"exposed\" marker above enemy (hold ~1.2 s, 4-frame bob)."
+  },
+  "heal": {
+    "effect_no": 15,
+    "file": "sheets/15_heal.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 8,
+    "fps": 12,
+    "loop": false,
+    "note": "Ground magic circle, rising cyan motes, cyan flash (frames 0-1)."
+  },
+  "ember_pickup_sparkle": {
+    "effect_no": 16,
+    "file": "sheets/16_ember_pickup_sparkle.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 14,
+    "loop": false,
+    "note": "Ember pickup twinkle."
+  },
+  "checkpoint_ignite": {
+    "effect_no": 17,
+    "file": "sheets/17_checkpoint_ignite.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 8,
+    "fps": 10,
+    "loop": false,
+    "note": "Altar flame ignition: blue -> amber. Last 2 frames loop as idle flame."
+  },
+  "respawn_dissolve_out": {
+    "effect_no": 18,
+    "file": "sheets/18_respawn_dissolve_out.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 6,
+    "fps": 14,
+    "loop": false,
+    "note": "Dissolve out at hazard (placeholder silhouette; apply to real sprite via dither mask)."
+  },
+  "respawn_embers_in": {
+    "effect_no": 18,
+    "file": "sheets/18_respawn_embers_in.png",
+    "frame_w": 32,
+    "frame_h": 32,
+    "frames": 7,
+    "fps": 14,
+    "loop": false,
+    "note": "Embers swirl in and form the player at checkpoint."
+  },
+  "memory_flash": {
+    "effect_no": 19,
+    "file": "sheets/19_memory_flash.png",
+    "frame_w": 128,
+    "frame_h": 72,
+    "frames": 7,
+    "fps": 17,
+    "loop": false,
+    "note": "Burned-paper dissolve overlay (0.35 s ~ 6 frames @ ~17fps). 128x72 tile. Desaturate scene in code; unburned=transparent, burned=sepia paper."
+  }
+}

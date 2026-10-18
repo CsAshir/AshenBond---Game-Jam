@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: 8d8a24e9ac276eb4d886c0a44a27579f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 45195999694816695
+    second: Area C-3_0
+  - first:
+      213: 8367647747910147000
+    second: Area C-3_1
+  - first:
+      213: 337119891960053005
+    second: Area C-3_2
+  - first:
+      213: -7296427361059757449
+    second: Area C-3_3
+  - first:
+      213: -7521564008866438288
+    second: Area C-3_4
+  - first:
+      213: 127843380702021606
+    second: Area C-3_5
+  - first:
+      213: -5059743245235671576
+    second: Area C-3_6
+  - first:
+      213: 3124313904515470684
+    second: Area C-3_7
+  - first:
+      213: 1013538935618981546
+    second: Area C-3_8
+  - first:
+      213: 1347886207146575441
+    second: Area C-3_9
+  - first:
+      213: -5178620120639101191
+    second: Area C-3_10
+  - first:
+      213: -5580687543133045052
+    second: Area C-3_11
+  - first:
+      213: -8236758572753563219
+    second: Area C-3_12
+  - first:
+      213: -3861425114057568492
+    second: Area C-3_13
+  - first:
+      213: 7216135020357775700
+    second: Area C-3_14
+  - first:
+      213: -5396259785359323542
+    second: Area C-3_15
+  - first:
+      213: -4235200008308099635
+    second: Area C-3_16
+  - first:
+      213: -3626604986053580989
+    second: Area C-3_17
+  - first:
+      213: 7334767680592872479
+    second: Area C-3_18
+  - first:
+      213: -3662525332608857283
+    second: Area C-3_19
+  - first:
+      213: -2431860988065173615
+    second: Area C-3_20
+  - first:
+      213: 8752498580824946362
+    second: Area C-3_21
+  - first:
+      213: 1567530912642521264
+    second: Area C-3_22
+  - first:
+      213: -1869607142571261530
+    second: Area C-3_23
+  - first:
+      213: 8633276673524455022
+    second: Area C-3_24
+  - first:
+      213: 8194280900196881689
+    second: Area C-3_25
+  - first:
+      213: -8824717988573965026
+    second: Area C-3_26
+  - first:
+      213: 3188685132271082150
+    second: Area C-3_27
+  - first:
+      213: 5013893586608200475
+    second: Area C-3_28
+  - first:
+      213: 5406949798280061037
+    second: Area C-3_29
+  - first:
+      213: 8757081740097321035
+    second: Area C-3_30
+  - first:
+      213: 244814328649000440
+    second: Area C-3_31
+  - first:
+      213: 3145692057771557626
+    second: Area C-3_32
+  - first:
+      213: 41539149836877373
+    second: Area C-3_33
+  - first:
+      213: 7981726047965664050
+    second: Area C-3_34
+  - first:
+      213: -1126166286269121648
+    second: Area C-3_35
+  - first:
+      213: -7850579026571219837
+    second: Area C-3_36
+  - first:
+      213: -7824117685944055643
+    second: Area C-3_37
+  - first:
+      213: -5529643586838657269
+    second: Area C-3_38
+  - first:
+      213: 7232822463577779305
+    second: Area C-3_39
+  - first:
+      213: -5612351102230090623
+    second: Area C-3_40
+  - first:
+      213: 4540678360013920610
+    second: Area C-3_41
+  - first:
+      213: -1312175745327844877
+    second: Area C-3_42
+  - first:
+      213: 2682461140975202085
+    second: Area C-3_43
+  - first:
+      213: 2785132351074913320
+    second: Area C-3_44
+  - first:
+      213: -2960675018200781115
+    second: Area C-3_45
+  - first:
+      213: 3488132333330161790
+    second: Area C-3_46
+  - first:
+      213: 6904615112640506661
+    second: Area C-3_47
+  - first:
+      213: -2091005363432501299
+    second: Area C-3_48
+  - first:
+      213: -493480315832792231
+    second: Area C-3_49
+  - first:
+      213: 1978804767287753607
+    second: Area C-3_50
+  - first:
+      213: 1195321087349272556
+    second: Area C-3_51
+  - first:
+      213: -1955326620925101165
+    second: Area C-3_52
+  - first:
+      213: -256650202143457713
+    second: Area C-3_53
+  - first:
+      213: 7636614397114627819
+    second: Area C-3_54
+  - first:
+      213: 8723222312486585816
+    second: Area C-3_55
+  - first:
+      213: -6030469162226529263
+    second: Area C-3_56
+  - first:
+      213: -3658924407534809251
+    second: Area C-3_57
+  - first:
+      213: -4840777939155288352
+    second: Area C-3_58
+  - first:
+      213: 5405513055187092078
+    second: Area C-3_59
+  - first:
+      213: 5560283833127141878
+    second: Area C-3_60
+  - first:
+      213: -277151467643100520
+    second: Area C-3_61
+  - first:
+      213: -4140539430084553337
+    second: Area C-3_62
+  - first:
+      213: -1635255166226965212
+    second: Area C-3_63
+  - first:
+      213: -847209000705590902
+    second: Area C-3_64
+  - first:
+      213: 8291207962221283576
+    second: Area C-3_65
+  - first:
+      213: -6984497538803483035
+    second: Area C-3_66
+  - first:
+      213: 1763389481157806240
+    second: Area C-3_67
+  - first:
+      213: 5951805782714761338
+    second: Area C-3_68
+  - first:
+      213: 7826661618358004510
+    second: Area C-3_69
+  - first:
+      213: 4822242891923068014
+    second: Area C-3_70
+  - first:
+      213: 2642261948222175408
+    second: Area C-3_71
+  - first:
+      213: 7638040475954966505
+    second: Area C-3_72
+  - first:
+      213: -8012974619018767830
+    second: Area C-3_73
+  - first:
+      213: 193949550735834252
+    second: Area C-3_74
+  - first:
+      213: -838153770929140651
+    second: Area C-3_75
+  - first:
+      213: -1056817153247703061
+    second: Area C-3_76
+  - first:
+      213: -5359124103634083599
+    second: Area C-3_77
+  - first:
+      213: -4165874803046192567
+    second: Area C-3_78
+  - first:
+      213: -4708725388243731918
+    second: Area C-3_79
+  - first:
+      213: 4544745012010503775
+    second: Area C-3_80
+  - first:
+      213: 797060835902121755
+    second: Area C-3_81
+  - first:
+      213: 3304392155262965570
+    second: Area C-3_82
+  - first:
+      213: 3244592289007380538
+    second: Area C-3_83
+  - first:
+      213: 5342291221430070395
+    second: Area C-3_84
+  - first:
+      213: -3407013598727760411
+    second: Area C-3_85
+  - first:
+      213: 327683393834340056
+    second: Area C-3_86
+  - first:
+      213: -3195723881341451799
+    second: Area C-3_87
+  - first:
+      213: 4643297949907583786
+    second: Area C-3_88
+  - first:
+      213: 7708270878781566506
+    second: Area C-3_89
+  - first:
+      213: -6699275231567319576
+    second: Area C-3_90
+  - first:
+      213: 3955411328279179021
+    second: Area C-3_91
+  - first:
+      213: -1474850565223719981
+    second: Area C-3_92
+  - first:
+      213: 2330340062364962721
+    second: Area C-3_93
+  - first:
+      213: 2745451398067918433
+    second: Area C-3_94
+  - first:
+      213: 1282761257611515945
+    second: Area C-3_95
+  - first:
+      213: -2926694046025133557
+    second: Area C-3_96
+  - first:
+      213: -4669355681682908493
+    second: Area C-3_97
+  - first:
+      213: -1217429821139931420
+    second: Area C-3_98
+  - first:
+      213: 6610366807090706094
+    second: Area C-3_99
+  - first:
+      213: -2006745559150979171
+    second: Area C-3_100
+  - first:
+      213: -5025671875731681390
+    second: Area C-3_101
+  - first:
+      213: -286613066539618718
+    second: Area C-3_102
+  - first:
+      213: -9193880292736085284
+    second: Area C-3_103
+  - first:
+      213: -4013180612588414401
+    second: Area C-3_104
+  - first:
+      213: 2379820744346218039
+    second: Area C-3_105
+  - first:
+      213: 6611523021423921146
+    second: Area C-3_106
+  - first:
+      213: -6879977523624476291
+    second: Area C-3_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Area C-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1672
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b50413b58190a000800000000000000
+      internalID: 45195999694816695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_1
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 889
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb18c30b4bdf1470800000000000000
+      internalID: 8367647747910147000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 897
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d3ffe61c0bda400800000000000000
+      internalID: 337119891960053005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 871
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772a79629f1edba90800000000000000
+      internalID: -7296427361059757449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_4
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 877
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073272882690e9790800000000000000
+      internalID: -7521564008866438288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 863
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e701ad90e036c100800000000000000
+      internalID: 127843380702021606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_6
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 851
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edab0d735e28c9b0800000000000000
+      internalID: -5059743245235671576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55557d51facb5b20800000000000000
+      internalID: 3124313904515470684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 78
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaec89fba40d01e00800000000000000
+      internalID: 1013538935618981546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 98
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156ce9e2d57a4b210800000000000000
+      internalID: 1347886207146575441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 62
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6ad921078d128b0800000000000000
+      internalID: -5178620120639101191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 100
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce7b1d4f3a6d82b0800000000000000
+      internalID: -5580687543133045052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 109
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1de52e7b721bd80800000000000000
+      internalID: -8236758572753563219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 99
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f83d54156796ac0800000000000000
+      internalID: -3861425114057568492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4517eab719cd42460800000000000000
+      internalID: 7216135020357775700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 98
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e8ee9d052ac15b0800000000000000
+      internalID: -5396259785359323542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_16
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 102
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc57010180c8935c0800000000000000
+      internalID: -4235200008308099635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_17
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347ad91daf5bbadc0800000000000000
+      internalID: -3626604986053580989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_18
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 96
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1401cf18545ac560800000000000000
+      internalID: 7334767680592872479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 88
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bcaf86d981c2dc0800000000000000
+      internalID: -3662525332608857283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_20
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 96
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fae3fd05b404ed0800000000000000
+      internalID: -2431860988065173615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_21
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 107
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67e27261f177970800000000000000
+      internalID: 8752498580824946362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_22
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 46
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b850865f0df0c510800000000000000
+      internalID: 1567530912642521264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_23
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 102
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c18d9532dd06e0800000000000000
+      internalID: -1869607142571261530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_24
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66571db46f8fc770800000000000000
+      internalID: 8633276673524455022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_25
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 96
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d006401fe7b170800000000000000
+      internalID: 8194280900196881689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_26
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 82
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e159c08aebd488580800000000000000
+      internalID: -8824717988573965026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_27
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 100
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5691cb3c704c20800000000000000
+      internalID: 3188685132271082150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_28
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 83
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b146bf6ade49540800000000000000
+      internalID: 5013893586608200475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_29
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 92
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d606adcb138590b40800000000000000
+      internalID: 5406949798280061037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_30
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 102
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487f831277678970800000000000000
+      internalID: 8757081740097321035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_31
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 90
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ac07b551c56300800000000000000
+      internalID: 244814328649000440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_32
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 100
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2cd3c824eb7ab20800000000000000
+      internalID: 3145692057771557626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_33
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 92
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e7c4ef2a3939000800000000000000
+      internalID: 41539149836877373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 86
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233d9773d89c4ce60800000000000000
+      internalID: 7981726047965664050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b78e4babd0f50f0800000000000000
+      internalID: -1126166286269121648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c271038f32d0390800000000000000
+      internalID: -7850579026571219837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 70
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a804782b662b6390800000000000000
+      internalID: -7824117685944055643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 77
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0707ff7472c243b0800000000000000
+      internalID: -5529643586838657269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_39
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 82
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ce401a5b5206460800000000000000
+      internalID: 7232822463577779305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_40
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cadc4786cec12b0800000000000000
+      internalID: -5612351102230090623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_41
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 66
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269deef29eab30f30800000000000000
+      internalID: 4540678360013920610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_42
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 46
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1b9d0ac173acde0800000000000000
+      internalID: -1312175745327844877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_43
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 78
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fad9702340a3520800000000000000
+      internalID: 2682461140975202085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_44
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 78
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc446fd17c6a620800000000000000
+      internalID: 2785132351074913320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_45
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cee4ccd1c199e6d0800000000000000
+      internalID: -2960675018200781115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_46
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 84
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70e2b150e5586030800000000000000
+      internalID: 3488132333330161790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_47
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 84
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b2bbbdcde12df50800000000000000
+      internalID: 6904615112640506661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_48
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 80
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf4b2953b14bf2e0800000000000000
+      internalID: -2091005363432501299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_49
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b832f644ec629f0800000000000000
+      internalID: -493480315832792231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_50
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 78
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b3902a370267b10800000000000000
+      internalID: 1978804767287753607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefacf32232a69010800000000000000
+      internalID: 1195321087349272556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf4eb4cc84dd4e0800000000000000
+      internalID: -1955326620925101165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_53
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 62
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ef4bd3002307cf0800000000000000
+      internalID: -256650202143457713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_54
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 58
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6b6aa6554baf960800000000000000
+      internalID: 7636614397114627819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 64
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d54680c97c1f0970800000000000000
+      internalID: 8723222312486585816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_56
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 60
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c4a8c6f387f4ca0800000000000000
+      internalID: -6030469162226529263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f81ec13a3e83dc0800000000000000
+      internalID: -3658924407534809251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_58
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 48
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef914ac1a12dcb0800000000000000
+      internalID: -4840777939155288352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 67
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c92beb7d340b40800000000000000
+      internalID: 5405513055187092078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_60
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 48
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f104e3cfa81a2d40800000000000000
+      internalID: 5560283833127141878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_61
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892a726653c572cf0800000000000000
+      internalID: -277151467643100520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_62
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785df4b6359d986c0800000000000000
+      internalID: -4140539430084553337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_63
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 48
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d5beb17186e49e0800000000000000
+      internalID: -1635255166226965212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_64
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89fd6e07eb1e34f0800000000000000
+      internalID: -847209000705590902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_65
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8071386b9401370800000000000000
+      internalID: 8291207962221283576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_66
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 54
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e37017e74121f90800000000000000
+      internalID: -6984497538803483035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 44
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84219e361d87810800000000000000
+      internalID: 1763389481157806240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_68
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 70
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7044da43df099250800000000000000
+      internalID: 5951805782714761338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_69
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 63
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba9634643ed9c60800000000000000
+      internalID: 7826661618358004510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_70
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 64
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e641ab16c5c0ce240800000000000000
+      internalID: 4822242891923068014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_71
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 55
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8705b1e333ba420800000000000000
+      internalID: 2642261948222175408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_72
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 64
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efe9554855cff960800000000000000
+      internalID: 7638040475954966505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_73
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 46
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a225a2fd9023cc090800000000000000
+      internalID: -8012974619018767830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_74
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 64
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cb4fbb61c01b200800000000000000
+      internalID: 193949550735834252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_75
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c4d9806974e54f0800000000000000
+      internalID: -838153770929140651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_76
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 64
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef812cf56e6551f0800000000000000
+      internalID: -1056817153247703061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_77
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 68
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f028a7850190a5b0800000000000000
+      internalID: -5359124103634083599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_78
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 56
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6ea930f6df26c0800000000000000
+      internalID: -4165874803046192567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a7ed0153f37aeb0800000000000000
+      internalID: -4708725388243731918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_80
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 48
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e4d93628d221f30800000000000000
+      internalID: 4544745012010503775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_81
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 48
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1762547b9abf0b00800000000000000
+      internalID: 797060835902121755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_82
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 56
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2475905682f8bdd20800000000000000
+      internalID: 3304392155262965570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 60
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38a14b0f7b170d20800000000000000
+      internalID: 3244592289007380538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_84
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce60caf81a32a40800000000000000
+      internalID: 5342291221430070395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_85
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 56
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e518eede2bd7b0d0800000000000000
+      internalID: -3407013598727760411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 50
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de4a408f4a2c8400800000000000000
+      internalID: 327683393834340056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_87
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e10964cf0286a3d0800000000000000
+      internalID: -3195723881341451799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_88
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 48
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a238a8a52ee407040800000000000000
+      internalID: 4643297949907583786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_89
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 50
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e634a268749fa60800000000000000
+      internalID: 7708270878781566506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_90
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 48
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed6bd1dba46703a0800000000000000
+      internalID: -6699275231567319576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_91
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fe2aa75a174e630800000000000000
+      internalID: 3955411328279179021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_92
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db5e0b9937488be0800000000000000
+      internalID: -1474850565223719981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_93
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 31
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0027a0f7075020800000000000000
+      internalID: 2330340062364962721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_94
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 33
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16610f1208dc91620800000000000000
+      internalID: 2745451398067918433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_95
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 33
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928519341984dc110800000000000000
+      internalID: 1282761257611515945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_96
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 48
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02db6c754b4267d0800000000000000
+      internalID: -2926694046025133557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_97
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba965f2fbd133fb0800000000000000
+      internalID: -4669355681682908493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_98
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 48
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeacf32702da1fe0800000000000000
+      internalID: -1217429821139931420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 39
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6bcab769dbcbb50800000000000000
+      internalID: 6610366807090706094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 33
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d979630db8b9624e0800000000000000
+      internalID: -2006745559150979171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_101
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 37
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f87516e0a314ab0800000000000000
+      internalID: -5025671875731681390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_102
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 29
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eabec3feeb50cf0800000000000000
+      internalID: -286613066539618718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_103
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 31
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd25004c596c86080800000000000000
+      internalID: -9193880292736085284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_104
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ade2fde715e48c0800000000000000
+      internalID: -4013180612588414401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_105
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 28
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eacdfab52d60120800000000000000
+      internalID: 2379820744346218039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_106
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 31
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74a4c9829d0cb50800000000000000
+      internalID: 6611523021423921146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area C-3_107
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 27
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7101b9d4e86580a0800000000000000
+      internalID: -6879977523624476291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Area C-3_0: 45195999694816695
+      Area C-3_1: 8367647747910147000
+      Area C-3_10: -5178620120639101191
+      Area C-3_100: -2006745559150979171
+      Area C-3_101: -5025671875731681390
+      Area C-3_102: -286613066539618718
+      Area C-3_103: -9193880292736085284
+      Area C-3_104: -4013180612588414401
+      Area C-3_105: 2379820744346218039
+      Area C-3_106: 6611523021423921146
+      Area C-3_107: -6879977523624476291
+      Area C-3_11: -5580687543133045052
+      Area C-3_12: -8236758572753563219
+      Area C-3_13: -3861425114057568492
+      Area C-3_14: 7216135020357775700
+      Area C-3_15: -5396259785359323542
+      Area C-3_16: -4235200008308099635
+      Area C-3_17: -3626604986053580989
+      Area C-3_18: 7334767680592872479
+      Area C-3_19: -3662525332608857283
+      Area C-3_2: 337119891960053005
+      Area C-3_20: -2431860988065173615
+      Area C-3_21: 8752498580824946362
+      Area C-3_22: 1567530912642521264
+      Area C-3_23: -1869607142571261530
+      Area C-3_24: 8633276673524455022
+      Area C-3_25: 8194280900196881689
+      Area C-3_26: -8824717988573965026
+      Area C-3_27: 3188685132271082150
+      Area C-3_28: 5013893586608200475
+      Area C-3_29: 5406949798280061037
+      Area C-3_3: -7296427361059757449
+      Area C-3_30: 8757081740097321035
+      Area C-3_31: 244814328649000440
+      Area C-3_32: 3145692057771557626
+      Area C-3_33: 41539149836877373
+      Area C-3_34: 7981726047965664050
+      Area C-3_35: -1126166286269121648
+      Area C-3_36: -7850579026571219837
+      Area C-3_37: -7824117685944055643
+      Area C-3_38: -5529643586838657269
+      Area C-3_39: 7232822463577779305
+      Area C-3_4: -7521564008866438288
+      Area C-3_40: -5612351102230090623
+      Area C-3_41: 4540678360013920610
+      Area C-3_42: -1312175745327844877
+      Area C-3_43: 2682461140975202085
+      Area C-3_44: 2785132351074913320
+      Area C-3_45: -2960675018200781115
+      Area C-3_46: 3488132333330161790
+      Area C-3_47: 6904615112640506661
+      Area C-3_48: -2091005363432501299
+      Area C-3_49: -493480315832792231
+      Area C-3_5: 127843380702021606
+      Area C-3_50: 1978804767287753607
+      Area C-3_51: 1195321087349272556
+      Area C-3_52: -1955326620925101165
+      Area C-3_53: -256650202143457713
+      Area C-3_54: 7636614397114627819
+      Area C-3_55: 8723222312486585816
+      Area C-3_56: -6030469162226529263
+      Area C-3_57: -3658924407534809251
+      Area C-3_58: -4840777939155288352
+      Area C-3_59: 5405513055187092078
+      Area C-3_6: -5059743245235671576
+      Area C-3_60: 5560283833127141878
+      Area C-3_61: -277151467643100520
+      Area C-3_62: -4140539430084553337
+      Area C-3_63: -1635255166226965212
+      Area C-3_64: -847209000705590902
+      Area C-3_65: 8291207962221283576
+      Area C-3_66: -6984497538803483035
+      Area C-3_67: 1763389481157806240
+      Area C-3_68: 5951805782714761338
+      Area C-3_69: 7826661618358004510
+      Area C-3_7: 3124313904515470684
+      Area C-3_70: 4822242891923068014
+      Area C-3_71: 2642261948222175408
+      Area C-3_72: 7638040475954966505
+      Area C-3_73: -8012974619018767830
+      Area C-3_74: 193949550735834252
+      Area C-3_75: -838153770929140651
+      Area C-3_76: -1056817153247703061
+      Area C-3_77: -5359124103634083599
+      Area C-3_78: -4165874803046192567
+      Area C-3_79: -4708725388243731918
+      Area C-3_8: 1013538935618981546
+      Area C-3_80: 4544745012010503775
+      Area C-3_81: 797060835902121755
+      Area C-3_82: 3304392155262965570
+      Area C-3_83: 3244592289007380538
+      Area C-3_84: 5342291221430070395
+      Area C-3_85: -3407013598727760411
+      Area C-3_86: 327683393834340056
+      Area C-3_87: -3195723881341451799
+      Area C-3_88: 4643297949907583786
+      Area C-3_89: 7708270878781566506
+      Area C-3_9: 1347886207146575441
+      Area C-3_90: -6699275231567319576
+      Area C-3_91: 3955411328279179021
+      Area C-3_92: -1474850565223719981
+      Area C-3_93: 2330340062364962721
+      Area C-3_94: 2745451398067918433
+      Area C-3_95: 1282761257611515945
+      Area C-3_96: -2926694046025133557
+      Area C-3_97: -4669355681682908493
+      Area C-3_98: -1217429821139931420
+      Area C-3_99: 6610366807090706094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
